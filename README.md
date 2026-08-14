@@ -650,7 +650,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (NeurIPS 2022) [Towards Out-of-Distribution Sequential Event Prediction: A Causal Treatment](https://proceedings.neurips.cc/paper_files/paper/2022/file/8e69a97cbdd91ac0808603fa589d6c17-Paper-Conference.pdf) by Yang et al.
 
-(NeurIPS 2022) [Delving into Out-of-Distribution Detection with Vision-Language Representations](https://arxiv.org/pdf/2211.13445.pdf) [\[Video\]](https://www.youtube.com/watch?v=ZZlxBgGalVA) [\[Code\]](https://github.com/deeplearning-wisc/MCM) ⭐ 99 | 🐛 3 | 🌐 Python | 📅 2024-03-12 by Ming et al.
+(NeurIPS 2022) [Delving into Out-of-Distribution Detection with Vision-Language Representations](https://arxiv.org/pdf/2211.13445.pdf) [\[Video\]](https://www.youtube.com/watch?v=ZZlxBgGalVA) [\[Code\]](https://github.com/deeplearning-wisc/MCM) ⭐ 98 | 🐛 3 | 🌐 Python | 📅 2024-03-12 by Ming et al.
 
 (NeurIPS 2022) [Beyond Mahalanobis Distance for Textual OOD Detection](https://proceedings.neurips.cc/paper_files/paper/2022/file/70fa5df8e3300dc30bf19bee44a56155-Paper-Conference.pdf) by Colombo et al.
 
@@ -1406,4 +1406,4 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
