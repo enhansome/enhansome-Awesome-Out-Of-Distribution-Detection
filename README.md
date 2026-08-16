@@ -156,11 +156,11 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 [OpenOOD](https://github.com/Jingkang50/OpenOOD) ⭐ 1,069 | 🐛 30 | 🌐 Python | 📅 2025-12-01: end-to-end OOD framework for training, benchmarking, and evaluating a large set of methods
 
-[PyTorch Out-of-Distribution Detection](https://github.com/kkirchheim/pytorch-ood) ⭐ 346 | 🐛 2 | 🌐 Python | 📅 2026-08-03: practical PyTorch library with detectors, losses, datasets, and evaluation utilities
+[PyTorch Out-of-Distribution Detection](https://github.com/kkirchheim/pytorch-ood) ⭐ 346 | 🐛 0 | 🌐 Python | 📅 2026-08-16: practical PyTorch library with detectors, losses, datasets, and evaluation utilities
 
 [OODEEL](https://github.com/deel-ai/oodeel) ⭐ 61 | 🐛 20 | 🌐 Python | 📅 2026-05-19: compact post-hoc OOD toolkit for TensorFlow and PyTorch image classifiers
 
-[TorchUncertainty](https://github.com/ENSTA-U2IS-AI/torch-uncertainty) ⭐ 527 | 🐛 25 | 🌐 Python | 📅 2026-08-10: broader uncertainty framework with strong support for OOD metrics, evaluation, and tutorials
+[TorchUncertainty](https://github.com/ENSTA-U2IS-AI/torch-uncertainty) ⭐ 528 | 🐛 25 | 🌐 Python | 📅 2026-08-10: broader uncertainty framework with strong support for OOD metrics, evaluation, and tutorials
 
 [Alibi Detect](https://github.com/SeldonIO/alibi-detect) ⭐ 2,547 | 🐛 143 | 🌐 Jupyter Notebook | 📅 2025-12-11: high-quality toolkit for outlier, adversarial, and drift detection across modalities
 
@@ -1148,7 +1148,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (Nature) [Out-of-distribution generalization for learning quantum dynamics](https://www.nature.com/articles/s41467-023-39381-w) by Caro et al.
 
-(ICML 2024) [CRoFT: Robust Fine-Tuning with Concurrent Optimization for OOD Generalization and Open-Set OOD Detection](https://openreview.net/pdf?id=xFDJBzPhci) [\[Code\]](https://github.com/LinLLLL/CRoFT) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2026-05-27 by Zhu et al.
+(ICML 2024) [CRoFT: Robust Fine-Tuning with Concurrent Optimization for OOD Generalization and Open-Set OOD Detection](https://openreview.net/pdf?id=xFDJBzPhci) [\[Code\]](https://github.com/LinLLLL/CRoFT) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2026-05-27 by Zhu et al.
 
 (ICML 2024) [Time-Series Forecasting for Out-of-Distribution Generalization Using Invariant Learning](https://openreview.net/pdf?id=SMUXPVKUBg) [\[Code\]](https://github.com/AdityaLab/FOIL) ⭐ 46 | 🐛 1 | 🌐 Python | 📅 2024-07-25 by Liu et al.
 
@@ -1406,4 +1406,4 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
