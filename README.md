@@ -134,7 +134,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 [DomainBed](https://github.com/facebookresearch/DomainBed) ⚠️ Archived: standard evaluation suite for domain generalization and out-of-domain robustness
 
-[GOOD](https://github.com/divelab/GOOD) ⭐ 211 | 🐛 1 | 🌐 Python | 📅 2025-02-21: leading benchmark suite for graph out-of-distribution and graph domain generalization
+[GOOD](https://github.com/divelab/GOOD) ⭐ 210 | 🐛 1 | 🌐 Python | 📅 2025-02-21: leading benchmark suite for graph out-of-distribution and graph domain generalization
 
 [DrugOOD](https://drugood.github.io/): benchmark and platform for out-of-distribution generalization in AI-aided drug discovery
 
@@ -160,9 +160,9 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 [OODEEL](https://github.com/deel-ai/oodeel) ⭐ 61 | 🐛 20 | 🌐 Python | 📅 2026-05-19: compact post-hoc OOD toolkit for TensorFlow and PyTorch image classifiers
 
-[TorchUncertainty](https://github.com/ENSTA-U2IS-AI/torch-uncertainty) ⭐ 527 | 🐛 25 | 🌐 Python | 📅 2026-08-10: broader uncertainty framework with strong support for OOD metrics, evaluation, and tutorials
+[TorchUncertainty](https://github.com/ENSTA-U2IS-AI/torch-uncertainty) ⭐ 526 | 🐛 25 | 🌐 Python | 📅 2026-08-10: broader uncertainty framework with strong support for OOD metrics, evaluation, and tutorials
 
-[Alibi Detect](https://github.com/SeldonIO/alibi-detect) ⭐ 2,547 | 🐛 146 | 🌐 Jupyter Notebook | 📅 2025-12-11: high-quality toolkit for outlier, adversarial, and drift detection across modalities
+[Alibi Detect](https://github.com/SeldonIO/alibi-detect) ⭐ 2,548 | 🐛 146 | 🌐 Jupyter Notebook | 📅 2025-12-11: high-quality toolkit for outlier, adversarial, and drift detection across modalities
 
 # Surveys
 
@@ -644,7 +644,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (NeurIPS 2022) [Out-of-Distribution Detection with An Adaptive Likelihood Ratio on Informative Hierarchical VAE](https://proceedings.neurips.cc/paper_files/paper/2022/file/3066f60a91d652f4dc690637ac3a2f8c-Paper-Conference.pdf) by Li et al.
 
-(NeurIPS 2022) [GOOD: A Graph Out-of-Distribution Benchmark](https://proceedings.neurips.cc/paper_files/paper/2022/file/0dc91de822b71c66a7f54fa121d8cbb9-Paper-Datasets_and_Benchmarks.pdf) [\[Code\]](https://github.com/divelab/GOOD) ⭐ 211 | 🐛 1 | 🌐 Python | 📅 2025-02-21 by Gui et al.
+(NeurIPS 2022) [GOOD: A Graph Out-of-Distribution Benchmark](https://proceedings.neurips.cc/paper_files/paper/2022/file/0dc91de822b71c66a7f54fa121d8cbb9-Paper-Datasets_and_Benchmarks.pdf) [\[Code\]](https://github.com/divelab/GOOD) ⭐ 210 | 🐛 1 | 🌐 Python | 📅 2025-02-21 by Gui et al.
 
 (NeurIPS 2022) ⭐⭐⭐⭐⭐ [Is Out-of-Distribution Detection Learnable?](https://proceedings.neurips.cc/paper_files/paper/2022/file/f0e91b1314fa5eabf1d7ef6d1561ecec-Paper-Conference.pdf) by Fang et al.
 
@@ -674,7 +674,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (ICML 2022) [POEM: Out-of-Distribution Detection with Posterior Sampling](https://proceedings.mlr.press/v162/ming22a/ming22a.pdf) [\[Code\]](https://github.com/deeplearning-wisc/poem) ⭐ 28 | 🐛 1 | 🌐 Python | 📅 2023-05-06 by Ming et al.
 
-(ICML 2022) [(kNN) Out-of-Distribution Detection with Deep Nearest Neighbors](https://arxiv.org/pdf/2204.06507.pdf) [\[Code\]](https://github.com/deeplearning-wisc/knn-ood) ⭐ 204 | 🐛 2 | 🌐 Python | 📅 2024-07-12 by Sun et al.
+(ICML 2022) [(kNN) Out-of-Distribution Detection with Deep Nearest Neighbors](https://arxiv.org/pdf/2204.06507.pdf) [\[Code\]](https://github.com/deeplearning-wisc/knn-ood) ⭐ 205 | 🐛 2 | 🌐 Python | 📅 2024-07-12 by Sun et al.
 
 (ICML 2022) [Training OOD Detectors in their Natural Habitats](https://proceedings.mlr.press/v162/katz-samuels22a/katz-samuels22a.pdf) by Katz-Samuels et al.
 
@@ -798,7 +798,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (ICLR 2018) [Do Deep Generative Models Know What They Don't Know?](https://arxiv.org/pdf/1810.09136.pdf) [\[Slides\]](https://fernandoperezc.github.io/Advanced-Topics-in-Machine-Learning-and-Data-Science/Jia.pdf) by Nalisnick et al.
 
-(ICLR 2018) ⭐⭐⭐⭐⭐ [(OE) Deep Anomaly Detection with Outlier Exposure](https://arxiv.org/pdf/1812.04606.pdf) [\[Code\]](https://github.com/hendrycks/outlier-exposure) ⭐ 576 | 🐛 5 | 🌐 Python | 📅 2021-10-09 by Hendrycks et al.
+(ICLR 2018) ⭐⭐⭐⭐⭐ [(OE) Deep Anomaly Detection with Outlier Exposure](https://arxiv.org/pdf/1812.04606.pdf) [\[Code\]](https://github.com/hendrycks/outlier-exposure) ⭐ 573 | 🐛 5 | 🌐 Python | 📅 2021-10-09 by Hendrycks et al.
 
 (ICLR 2018) ⭐⭐⭐⭐⭐ [(ODIN) Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks](https://arxiv.org/pdf/1706.02690.pdf) [\[Code\]](https://github.com/facebookresearch/odin) ⚠️ Archived by Liang et al.
 
@@ -1406,4 +1406,4 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
