@@ -768,7 +768,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (NeurIPS 2020) [CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances](https://arxiv.org/pdf/2007.08176.pdf) [\[Code\]](https://github.com/alinlab/CSI) ⭐ 285 | 🐛 12 | 🌐 Python | 📅 2023-10-19 by Tack et al.
 
-(NeurIPS 2020) ⭐⭐⭐⭐⭐ [Energy-based Out-of-distribution Detection](https://arxiv.org/pdf/2010.03759.pdf) [\[Code\]](https://github.com/wetliu/energy_ood) ⭐ 440 | 🐛 1 | 🌐 Python | 📅 2021-08-28 by Liu et al.
+(NeurIPS 2020) ⭐⭐⭐⭐⭐ [Energy-based Out-of-distribution Detection](https://arxiv.org/pdf/2010.03759.pdf) [\[Code\]](https://github.com/wetliu/energy_ood) ⭐ 441 | 🐛 1 | 🌐 Python | 📅 2021-08-28 by Liu et al.
 
 (NeurIPS 2020) [OOD-MAML: Meta-Learning for Few-Shot Out-of-Distribution Detection and Classification](https://proceedings.neurips.cc/paper/2020/file/28e209b61a52482a0ae1cb9f5959c792-Paper.pdf) [\[Video\]](https://slideslive.com/38935997/oodmaml-metalearning-for-fewshot-outofdistribution-detection-and-classification) by Jeong and Kim
 
@@ -1202,7 +1202,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (NeurIPS 2023) [On the Adversarial Robustness of Out-of-distribution Generalization Models](https://proceedings.neurips.cc/paper_files/paper/2023/file/d9888cc7baa04c2e44e8115588133515-Paper-Conference.pdf) [\[Code\]](https://github.com/ZouXinn/OOD-Adv) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2023-09-26 by Zou and Liu
 
-(NeurIPS 2023) [Joint Learning of Label and Environment Causal Independence for Graph Out-of-distribution Generalization](https://proceedings.neurips.cc/paper_files/paper/2023/file/0c6c92a0c5237761168eafd4549f1584-Paper-Conference.pdf) [\[Code\]](https://github.com/divelab/LECI) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2024-11-04 by Gui et al.
+(NeurIPS 2023) [Joint Learning of Label and Environment Causal Independence for Graph Out-of-distribution Generalization](https://proceedings.neurips.cc/paper_files/paper/2023/file/0c6c92a0c5237761168eafd4549f1584-Paper-Conference.pdf) [\[Code\]](https://github.com/divelab/LECI) ⭐ 22 | 🐛 1 | 🌐 Python | 📅 2024-11-04 by Gui et al.
 
 (NeurIPS 2023) [Environment-Aware Dynamic Graph Leaning for Out-of-distribution Generalization](https://proceedings.neurips.cc/paper_files/paper/2023/file/9bf12308ece130daa083fb21f7faf1b6-Paper-Conference.pdf) by Yuan et al.
 
@@ -1406,4 +1406,4 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
