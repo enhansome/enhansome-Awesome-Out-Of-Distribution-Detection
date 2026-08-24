@@ -128,7 +128,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 [OpenOOD](https://github.com/Jingkang50/OpenOOD) ⭐ 1,070 | 🐛 30 | 🌐 Python | 📅 2025-12-01: canonical benchmark suite for generalized OOD detection across classic image settings and methods
 
-[OpenOOD-VLM](https://github.com/YBZh/OpenOOD-VLM) ⭐ 0 | 🐛 0 | 📅 2026-06-24: benchmark suite for generalized OOD detection in the vision-language model setting
+[OpenOOD-VLM](https://github.com/YBZh/OpenOOD-VLM) ⭐ 1 | 🐛 0 | 📅 2026-06-24: benchmark suite for generalized OOD detection in the vision-language model setting
 
 [WILDS](https://wilds.stanford.edu/): canonical real-world benchmark for distribution shift across vision, text, graphs, and biology
 
