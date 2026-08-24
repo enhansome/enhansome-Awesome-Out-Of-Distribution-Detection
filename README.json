@@ -1,7 +1,208 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OpenOOD",
+              "description": "canonical benchmark suite for generalized OOD detection across classic image settings and methods",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 432902512,
+                "language": "Python",
+                "last_commit": "2025-12-01T10:40:18Z",
+                "owner": "Jingkang50",
+                "repo": "OpenOOD",
+                "stars": 1070
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenOOD-VLM",
+              "description": "benchmark suite for generalized OOD detection in the vision-language model setting",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1278801258,
+                "language": null,
+                "last_commit": "2026-06-24T04:04:50Z",
+                "owner": "YBZh",
+                "repo": "OpenOOD-VLM",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DomainBed",
+              "description": "standard evaluation suite for domain generalization and out-of-domain robustness",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 275930636,
+                "language": "Python",
+                "last_commit": "2025-12-16T17:09:28Z",
+                "owner": "facebookresearch",
+                "repo": "DomainBed",
+                "stars": 1630
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GOOD",
+              "description": "leading benchmark suite for graph out-of-distribution and graph domain generalization",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 500164429,
+                "language": "Python",
+                "last_commit": "2025-02-21T23:23:52Z",
+                "owner": "divelab",
+                "repo": "GOOD",
+                "stars": 210
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OOD NLP",
+              "description": "benchmark suite for out-of-distribution robustness and evaluation in NLP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 649376649,
+                "language": "Python",
+                "last_commit": "2023-06-08T18:27:31Z",
+                "owner": "lifan-yuan",
+                "repo": "OOD_NLP",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NINCO",
+              "description": "ImageNet-scale near-OOD dataset for modern large-scale visual evaluation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 621482592,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-08-22T14:38:36Z",
+                "owner": "j-cb",
+                "repo": "NINCO",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenMIBOOD",
+              "description": "medical imaging benchmark suite for OOD detection under covariate, near-OOD, and far-OOD shifts",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 947349970,
+                "language": "Python",
+                "last_commit": "2026-06-30T12:20:40Z",
+                "owner": "remic-othr",
+                "repo": "OpenMIBOOD",
+                "stars": 49
+              }
+            }
+          ],
+          "description": "WILDS: canonical real-world benchmark for distribution shift across vision, text, graphs, and biology\nDrugOOD: benchmark and platform for out-of-distribution generalization in AI-aided drug discovery\nTableShift: benchmark and toolkit for real-world tabular distribution shift\nOODRobustBench: benchmark for adversarial robustness under natural distribution shift\nWOODS: benchmark suite for out-of-distribution generalization in time-series tasks\nSemantic Shift Benchmark (SSB): benchmark for semantic-shift, open-set, and class-level OOD evaluation",
+          "node_type": "group",
+          "title": "Benchmarks"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OpenOOD",
+              "description": "end-to-end OOD framework for training, benchmarking, and evaluating a large set of methods",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 432902512,
+                "language": "Python",
+                "last_commit": "2025-12-01T10:40:18Z",
+                "owner": "Jingkang50",
+                "repo": "OpenOOD",
+                "stars": 1070
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PyTorch Out-of-Distribution Detection",
+              "description": "practical PyTorch library with detectors, losses, datasets, and evaluation utilities",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 527624781,
+                "language": "Python",
+                "last_commit": "2026-08-16T09:15:41Z",
+                "owner": "kkirchheim",
+                "repo": "pytorch-ood",
+                "stars": 346
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OODEEL",
+              "description": "compact post-hoc OOD toolkit for TensorFlow and PyTorch image classifiers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 585229209,
+                "language": "Python",
+                "last_commit": "2026-05-19T09:33:17Z",
+                "owner": "deel-ai",
+                "repo": "oodeel",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TorchUncertainty",
+              "description": "broader uncertainty framework with strong support for OOD metrics, evaluation, and tutorials",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 596176714,
+                "language": "Python",
+                "last_commit": "2026-08-10T13:44:43Z",
+                "owner": "torch-uncertainty",
+                "repo": "torch-uncertainty",
+                "stars": 526
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Alibi Detect",
+              "description": "high-quality toolkit for outlier, adversarial, and drift detection across modalities",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 213390927,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-12-11T16:35:15Z",
+                "owner": "SeldonIO",
+                "repo": "alibi-detect",
+                "stars": 2548
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Libraries"
+        }
+      ],
+      "title": "Benchmarks, libraries, datasets, etc"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T17:34:48.547Z",
+    "last_updated": "2026-08-24T14:13:43.083Z",
     "original_repository": "huytransformer/Awesome-Out-Of-Distribution-Detection",
     "original_repository_id": 675556752,
     "original_repository_sha": "62520224d6f953857a72ddf471d03b492530c831",
