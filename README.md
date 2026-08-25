@@ -514,7 +514,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (NeurIPS 2023) [Diversify & Conquer: Outcome-directed Curriculum RL via Out-of-distribution Disagreement](https://proceedings.neurips.cc/paper_files/paper/2023/file/a815fe7cad6af20a6c118f2072a881d2-Paper-Conference.pdf) by Cho et al.
 
-(NeurIPS 2023) [LoCoOp: Few-Shot Out-of-distribution Detection via Prompt Learning](https://proceedings.neurips.cc/paper_files/paper/2023/file/f0606b882692637835e8ac981089eccd-Paper-Conference.pdf) [\[Code\]](https://github.com/AtsuMiyai/LoCoOp) ⭐ 103 | 🐛 2 | 🌐 Python | 📅 2025-07-05 by Miyai et al.
+(NeurIPS 2023) [LoCoOp: Few-Shot Out-of-distribution Detection via Prompt Learning](https://proceedings.neurips.cc/paper_files/paper/2023/file/f0606b882692637835e8ac981089eccd-Paper-Conference.pdf) [\[Code\]](https://github.com/AtsuMiyai/LoCoOp) ⭐ 104 | 🐛 2 | 🌐 Python | 📅 2025-07-05 by Miyai et al.
 
 (NeurIPS 2023) [Category-Extensible Out-of-distribution Detection via Hierarchical Context Descriptions](https://proceedings.neurips.cc/paper_files/paper/2023/file/695b6f9490d27d852e439e35c56e73e3-Paper-Conference.pdf) by Liu et al.
 
