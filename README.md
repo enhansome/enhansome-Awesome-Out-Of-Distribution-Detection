@@ -766,7 +766,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (CVPR 2020) [Generalized ODIN: Detecting Out-of-Distribution Image Without Learning From Out-of-Distribution Data](https://arxiv.org/pdf/2002.11297.pdf) [\[Code\]](https://github.com/sayakpaul/Generalized-ODIN-TF) ⭐ 46 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2021-09-07  by Hsu et al.
 
-(NeurIPS 2020) [CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances](https://arxiv.org/pdf/2007.08176.pdf) [\[Code\]](https://github.com/alinlab/CSI) ⭐ 285 | 🐛 12 | 🌐 Python | 📅 2023-10-19 by Tack et al.
+(NeurIPS 2020) [CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances](https://arxiv.org/pdf/2007.08176.pdf) [\[Code\]](https://github.com/alinlab/CSI) ⭐ 286 | 🐛 12 | 🌐 Python | 📅 2023-10-19 by Tack et al.
 
 (NeurIPS 2020) ⭐⭐⭐⭐⭐ [Energy-based Out-of-distribution Detection](https://arxiv.org/pdf/2010.03759.pdf) [\[Code\]](https://github.com/wetliu/energy_ood) ⭐ 440 | 🐛 1 | 🌐 Python | 📅 2021-08-28 by Liu et al.
 
@@ -1406,4 +1406,4 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
