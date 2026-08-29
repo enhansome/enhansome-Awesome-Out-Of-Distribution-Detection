@@ -12,12 +12,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Benchmarking Generalized Out-of-Distribution Detection",
+                "homepage": null,
                 "id": 432902512,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-12-01T10:40:18Z",
+                "open_issues": 30,
                 "owner": "Jingkang50",
                 "repo": "OpenOOD",
-                "stars": 1070
+                "stars": 1070,
+                "topics": [
+                  "anomaly-detection",
+                  "novelty-detection",
+                  "open-set-recognition",
+                  "out-of-distribution-detection",
+                  "outlier-detection",
+                  "robustness"
+                ]
               },
               "first_seen": "2026-08-29T00:58:14.707Z"
             },
@@ -28,12 +40,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ECCV24, NeurIPS24, CVPR26*2, ECCV26, Benchmarking Generalized Out-of-Distribution Detection with Vision-Language Models",
+                "homepage": null,
                 "id": 1278801258,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-06-24T04:04:50Z",
+                "open_issues": 0,
                 "owner": "YBZh",
                 "repo": "OpenOOD-VLM",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:14.707Z"
             },
@@ -44,12 +61,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "DomainBed is a suite to test domain generalization algorithms",
+                "homepage": null,
                 "id": 275930636,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-12-16T17:09:28Z",
+                "open_issues": 7,
                 "owner": "facebookresearch",
                 "repo": "DomainBed",
-                "stars": 1630
+                "stars": 1630,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:14.707Z"
             },
@@ -60,12 +82,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GOOD: A Graph Out-of-Distribution Benchmark [NeurIPS 2022 Datasets and Benchmarks]",
+                "homepage": "https://good.readthedocs.io/",
                 "id": 500164429,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-02-21T23:23:52Z",
+                "open_issues": 1,
                 "owner": "divelab",
                 "repo": "GOOD",
-                "stars": 210
+                "stars": 210,
+                "topics": [
+                  "deep-learning",
+                  "distribution-shift",
+                  "graph-neural-networks",
+                  "graph-ood",
+                  "invariant-learning",
+                  "out-of-distribution-generalization",
+                  "pytorch",
+                  "pytorch-geometric"
+                ]
               },
               "first_seen": "2026-08-29T00:58:14.707Z"
             },
@@ -76,12 +112,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2023 D&B Track] Code and data for paper \"Revisiting Out-of-distribution Robustness in NLP: Benchmarks, Analysis, and LLMs Evaluations\".",
+                "homepage": null,
                 "id": 649376649,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-06-08T18:27:31Z",
+                "open_issues": 1,
                 "owner": "lifan-yuan",
                 "repo": "OOD_NLP",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:14.707Z"
             },
@@ -92,12 +133,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code and data for the paper \"In or Out? Fixing ImageNet Out-of-Distribution Detection Evaluation\"",
+                "homepage": "https://arxiv.org/abs/2306.00826",
                 "id": 621482592,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2023-08-22T14:38:36Z",
+                "open_issues": 0,
                 "owner": "j-cb",
                 "repo": "NINCO",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "deep-learning",
+                  "out-of-distribution-detection",
+                  "robustness"
+                ]
               },
               "first_seen": "2026-08-29T00:58:14.707Z"
             },
@@ -108,12 +158,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Medical Imaging Benchmarks for Out-Of-Distribution Detection",
+                "homepage": null,
                 "id": 947349970,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-30T12:20:40Z",
+                "open_issues": 1,
                 "owner": "remic-othr",
                 "repo": "OpenMIBOOD",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:14.707Z"
             }
@@ -131,12 +186,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Benchmarking Generalized Out-of-Distribution Detection",
+                "homepage": null,
                 "id": 432902512,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-12-01T10:40:18Z",
+                "open_issues": 30,
                 "owner": "Jingkang50",
                 "repo": "OpenOOD",
-                "stars": 1070
+                "stars": 1070,
+                "topics": [
+                  "anomaly-detection",
+                  "novelty-detection",
+                  "open-set-recognition",
+                  "out-of-distribution-detection",
+                  "outlier-detection",
+                  "robustness"
+                ]
               },
               "first_seen": "2026-08-29T00:58:14.707Z"
             },
@@ -147,12 +214,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "👽 Out-of-Distribution Detection with PyTorch",
+                "homepage": "https://pytorch-ood.readthedocs.io/",
                 "id": 527624781,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-16T09:15:41Z",
+                "open_issues": 8,
                 "owner": "kkirchheim",
                 "repo": "pytorch-ood",
-                "stars": 346
+                "stars": 346,
+                "topics": [
+                  "anomaly-detection",
+                  "confidence-estimation",
+                  "deep-learning",
+                  "neural-network",
+                  "novelty-detection",
+                  "ood-detection",
+                  "open-set-recognition",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-29T00:58:14.707Z"
             },
@@ -163,12 +244,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple, compact, and hackable post-hoc deep OOD detection for already trained tensorflow or pytorch image classifiers.",
+                "homepage": "https://deel-ai.github.io/oodeel/",
                 "id": 585229209,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-19T09:33:17Z",
+                "open_issues": 20,
                 "owner": "deel-ai",
                 "repo": "oodeel",
-                "stars": 61
+                "stars": 61,
+                "topics": [
+                  "deep-neural-networks",
+                  "out-of-distribution-detection",
+                  "post-hoc-analysis",
+                  "pytorch",
+                  "robustness",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-29T00:58:14.707Z"
             },
@@ -179,12 +272,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source framework for uncertainty and deep learning models in PyTorch 🌱 ",
+                "homepage": "https://torch-uncertainty.github.io",
                 "id": 596176714,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-10T13:44:43Z",
+                "open_issues": 25,
                 "owner": "torch-uncertainty",
                 "repo": "torch-uncertainty",
-                "stars": 527
+                "stars": 527,
+                "topics": [
+                  "bayesian-network",
+                  "computer-vision",
+                  "ensembles",
+                  "neural-networks",
+                  "predictive-uncertainty",
+                  "pytorch",
+                  "reliable-ai",
+                  "trustworthy-machine-learning",
+                  "uncertainty",
+                  "uncertainty-quantification"
+                ]
               },
               "first_seen": "2026-08-29T00:58:14.707Z"
             },
@@ -195,12 +304,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Algorithms for outlier, adversarial and drift detection",
+                "homepage": "https://docs.seldon.io/projects/alibi-detect/en/stable/",
                 "id": 213390927,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2025-12-11T16:35:15Z",
+                "open_issues": 146,
                 "owner": "SeldonIO",
                 "repo": "alibi-detect",
-                "stars": 2548
+                "stars": 2548,
+                "topics": [
+                  "adversarial",
+                  "anomaly",
+                  "concept-drift",
+                  "data-drift",
+                  "detection",
+                  "drift-detection",
+                  "images",
+                  "outlier",
+                  "semi-supervised-learning",
+                  "tabular-data",
+                  "text",
+                  "time-series",
+                  "unsupervised-learning"
+                ]
               },
               "first_seen": "2026-08-29T00:58:14.707Z"
             }
@@ -214,15 +342,40 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:58:14.707Z",
+    "last_updated": "2026-08-29T04:36:59.003Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Out-of-distribution detection, robustness, and generalization resources. The repository contains a curated list of papers, tutorials, books, videos, articles and open-source libraries etc",
+      "homepage": null,
       "id": 675556752,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-04-03T18:05:25Z",
+      "open_issues": 0,
       "owner": "huytransformer",
       "repo": "Awesome-Out-Of-Distribution-Detection",
-      "stars": 1021
+      "stars": 1021,
+      "topics": [
+        "anomaly",
+        "anomaly-detection",
+        "awesome",
+        "awesome-lists",
+        "distribution-shifts",
+        "novelty-detection",
+        "ood-detection",
+        "ood-generalization",
+        "ood-robustness",
+        "open-set",
+        "open-set-recognition",
+        "open-world",
+        "open-world-learning",
+        "out-of-distribution",
+        "out-of-distribution-detection",
+        "out-of-distribution-generalization",
+        "out-of-distribution-robustness",
+        "outlier-detection",
+        "robustness"
+      ]
     },
     "original_repository_sha": "62520224d6f953857a72ddf471d03b492530c831",
     "enhanced_repository": "enhansome/enhansome-Awesome-Out-Of-Distribution-Detection",
