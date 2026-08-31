@@ -70,7 +70,7 @@
                 "open_issues": 7,
                 "owner": "facebookresearch",
                 "repo": "DomainBed",
-                "stars": 1630,
+                "stars": 1631,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:14.707Z"
@@ -342,7 +342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T19:50:28.967Z",
+    "last_updated": "2026-08-31T21:54:11.464Z",
     "original_repository_info": {
       "archived": false,
       "description": "Out-of-distribution detection, robustness, and generalization resources. The repository contains a curated list of papers, tutorials, books, videos, articles and open-source libraries etc",
@@ -354,7 +354,7 @@
       "open_issues": 0,
       "owner": "huytransformer",
       "repo": "Awesome-Out-Of-Distribution-Detection",
-      "stars": 1021,
+      "stars": 1022,
       "topics": [
         "anomaly",
         "anomaly-detection",

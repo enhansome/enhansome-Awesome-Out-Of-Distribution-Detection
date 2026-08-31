@@ -420,7 +420,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (ICML 2024) [OODRobustBench: a Benchmark and Large-Scale Analysis of Adversarial Robustness under Distribution Shift](https://openreview.net/pdf?id=kAFevjEYsz) [\[Code\]](https://github.com/OODRobustBench/OODRobustBench) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2024-07-25 by Li et al.
 
-(ICML 2024) [A Geometric Explanation of the Likelihood OOD Detection Paradox](https://openreview.net/pdf?id=EVMzCKLpdD) [\[Code\]](https://github.com/layer6ai-labs/dgm_ood_detection) ⭐ 3 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-07-18 by Kamkari et al.
+(ICML 2024) [A Geometric Explanation of the Likelihood OOD Detection Paradox](https://openreview.net/pdf?id=EVMzCKLpdD) [\[Code\]](https://github.com/layer6ai-labs/dgm_ood_detection) ⭐ 4 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-07-18 by Kamkari et al.
 
 (ICML 2024) [ODIM: Outlier Detection via Likelihood of Under-Fitted Generative Models](https://openreview.net/pdf?id=R8nbccD7kv) [\[Code\]](https://github.com/jshwang0311/ODIM) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2024-06-04 by Kim and Hwang et al.
 
@@ -738,7 +738,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (NeurIPS 2021) [RankFeat: Rank-1 Feature Removal for Out-of-distribution Detection](https://arxiv.org/pdf/2209.08590.pdf) [\[Code\]](https://github.com/KingJamesSong/RankFeat) ⭐ 20 | 🐛 1 | 🌐 Python | 📅 2025-02-21 by Song et al.
 
-(NeurIPS 2021) ⭐⭐⭐⭐⭐ [ReAct: Out-of-distribution Detection With Rectified Activations](https://arxiv.org/pdf/2111.12797.pdf) [\[Code\]](https://github.com/deeplearning-wisc/react) ⭐ 57 | 🐛 3 | 🌐 Python | 📅 2022-03-24 by Sun et al.
+(NeurIPS 2021) ⭐⭐⭐⭐⭐ [ReAct: Out-of-distribution Detection With Rectified Activations](https://arxiv.org/pdf/2111.12797.pdf) [\[Code\]](https://github.com/deeplearning-wisc/react) ⭐ 58 | 🐛 3 | 🌐 Python | 📅 2022-03-24 by Sun et al.
 
 (NeurIPS 2021) ⭐⭐⭐⭐⭐ [(GradNorm) On the Importance of Gradients for Detecting Distributional Shifts in the Wild](https://arxiv.org/pdf/2110.00218.pdf) [\[Code\]](https://github.com/deeplearning-wisc/gradnorm_ood) ⭐ 56 | 🐛 3 | 🌐 Python | 📅 2022-08-03 by Huang et al.
 
@@ -1308,7 +1308,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (NeurIPS 2025) [Rethinking Out-of-Distribution Detection and Generalization with Collective Behavior Dynamics](https://neurips.cc/virtual/2025/poster/117703) by Wang et al.
 
-(NeurIPS 2025) [Human Texts Are Outliers: Detecting LLM-generated Texts via Out-of-distribution Detection](https://neurips.cc/virtual/2025/poster/120309) [\[Code\]](https://github.com/cong-zeng/ood-llm-detect) ⭐ 13 | 🐛 3 | 🌐 Python | 📅 2025-11-08 by Zeng et al.
+(NeurIPS 2025) [Human Texts Are Outliers: Detecting LLM-generated Texts via Out-of-distribution Detection](https://neurips.cc/virtual/2025/poster/120309) [\[Code\]](https://github.com/cong-zeng/ood-llm-detect) ⭐ 12 | 🐛 3 | 🌐 Python | 📅 2025-11-08 by Zeng et al.
 
 (NeurIPS 2025) [Reinforcement Learning for Out-of-Distribution Reasoning in LLMs: An Empirical Study on Diagnosis-Related Group Coding](https://neurips.cc/virtual/2025/poster/120291) [\[Code\]](https://github.com/hanyin88/DRG-Sapphire) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2025-09-19 by Wang et al.
 
@@ -1406,4 +1406,4 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
