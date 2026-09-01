@@ -160,7 +160,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 [OODEEL](https://github.com/deel-ai/oodeel) ⭐ 61 | 🐛 20 | 🌐 Python | 📅 2026-05-19: compact post-hoc OOD toolkit for TensorFlow and PyTorch image classifiers
 
-[TorchUncertainty](https://github.com/ENSTA-U2IS-AI/torch-uncertainty) ⭐ 527 | 🐛 25 | 🌐 Python | 📅 2026-08-10: broader uncertainty framework with strong support for OOD metrics, evaluation, and tutorials
+[TorchUncertainty](https://github.com/ENSTA-U2IS-AI/torch-uncertainty) ⭐ 527 | 🐛 25 | 🌐 Python | 📅 2026-09-01: broader uncertainty framework with strong support for OOD metrics, evaluation, and tutorials
 
 [Alibi Detect](https://github.com/SeldonIO/alibi-detect) ⭐ 2,548 | 🐛 146 | 🌐 Jupyter Notebook | 📅 2025-12-11: high-quality toolkit for outlier, adversarial, and drift detection across modalities
 
@@ -1406,4 +1406,4 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
