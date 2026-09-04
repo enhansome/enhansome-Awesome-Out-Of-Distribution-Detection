@@ -49,7 +49,7 @@
                 "open_issues": 0,
                 "owner": "YBZh",
                 "repo": "OpenOOD-VLM",
-                "stars": 1,
+                "stars": 2,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:14.707Z"
@@ -342,7 +342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T19:50:57.219Z",
+    "last_updated": "2026-09-04T19:36:55.240Z",
     "original_repository_info": {
       "archived": false,
       "description": "Out-of-distribution detection, robustness, and generalization resources. The repository contains a curated list of papers, tutorials, books, videos, articles and open-source libraries etc",

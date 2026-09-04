@@ -128,7 +128,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 [OpenOOD](https://github.com/Jingkang50/OpenOOD) ⭐ 1,072 | 🐛 30 | 🌐 Python | 📅 2025-12-01: canonical benchmark suite for generalized OOD detection across classic image settings and methods
 
-[OpenOOD-VLM](https://github.com/YBZh/OpenOOD-VLM) ⭐ 1 | 🐛 0 | 📅 2026-06-24: benchmark suite for generalized OOD detection in the vision-language model setting
+[OpenOOD-VLM](https://github.com/YBZh/OpenOOD-VLM) ⭐ 2 | 🐛 0 | 📅 2026-06-24: benchmark suite for generalized OOD detection in the vision-language model setting
 
 [WILDS](https://wilds.stanford.edu/): canonical real-world benchmark for distribution shift across vision, text, graphs, and biology
 
@@ -790,7 +790,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (arXiv 2019) [WAIC, but Why? Generative Ensembles for Robust Anomaly Detection](https://arxiv.org/pdf/1810.01392) by Choi and Jang et al.
 
-(NeurIPS 2018) ⭐⭐⭐⭐⭐ [(Mahalanobis) A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks](https://arxiv.org/pdf/1807.03888.pdf) [\[Code\]](https://github.com/pokaxpoka/deep_Mahalanobis_detector) ⭐ 357 | 🐛 17 | 🌐 Python | 📅 2019-08-13 by Lee et al.
+(NeurIPS 2018) ⭐⭐⭐⭐⭐ [(Mahalanobis) A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks](https://arxiv.org/pdf/1807.03888.pdf) [\[Code\]](https://github.com/pokaxpoka/deep_Mahalanobis_detector) ⭐ 356 | 🐛 17 | 🌐 Python | 📅 2019-08-13 by Lee et al.
 
 (NeurIPS 2018) [Out-of-Distribution Detection using Multiple Semantic Label Representations](https://arxiv.org/pdf/1808.06664.pdf) by Shalev et al.
 
@@ -1406,4 +1406,4 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
