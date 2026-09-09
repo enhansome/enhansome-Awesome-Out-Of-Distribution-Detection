@@ -156,7 +156,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 [OpenOOD](https://github.com/Jingkang50/OpenOOD) ⭐ 1,072 | 🐛 30 | 🌐 Python | 📅 2025-12-01: end-to-end OOD framework for training, benchmarking, and evaluating a large set of methods
 
-[PyTorch Out-of-Distribution Detection](https://github.com/kkirchheim/pytorch-ood) ⭐ 346 | 🐛 4 | 🌐 Python | 📅 2026-09-07: practical PyTorch library with detectors, losses, datasets, and evaluation utilities
+[PyTorch Out-of-Distribution Detection](https://github.com/kkirchheim/pytorch-ood) ⭐ 346 | 🐛 5 | 🌐 Python | 📅 2026-09-07: practical PyTorch library with detectors, losses, datasets, and evaluation utilities
 
 [OODEEL](https://github.com/deel-ai/oodeel) ⭐ 61 | 🐛 20 | 🌐 Python | 📅 2026-05-19: compact post-hoc OOD toolkit for TensorFlow and PyTorch image classifiers
 
@@ -988,7 +988,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (NeurIPS 2025) [Pruning Spurious Subgraphs for Graph Out-of-Distribution Generalization](https://neurips.cc/virtual/2025/poster/116247) [\[Code\]](https://github.com/tianyao-aka/PrunE-GraphOOD) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-11-10 by Yao et al.
 
-(NeurIPS 2025) [STRAP: Spatio-Temporal Pattern Retrieval for Out-of-Distribution Generalization](https://neurips.cc/virtual/2025/poster/117450) [\[Code\]](https://github.com/HoweyZ/STRAP) ⭐ 85 | 🐛 0 | 🌐 Python | 📅 2026-02-21 by Zhang et al.
+(NeurIPS 2025) [STRAP: Spatio-Temporal Pattern Retrieval for Out-of-Distribution Generalization](https://neurips.cc/virtual/2025/poster/117450) [\[Code\]](https://github.com/HoweyZ/STRAP) ⭐ 85 | 🐛 0 | 🌐 Python | 📅 2026-09-09 by Zhang et al.
 
 (ICCV 2025) [Customizing Domain Adapters for Domain Generalization](https://openaccess.thecvf.com/content/ICCV2025/html/Ji_Customizing_Domain_Adapters_for_Domain_Generalization_ICCV_2025_paper.html) by Ji et al.
 
@@ -1406,4 +1406,4 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
