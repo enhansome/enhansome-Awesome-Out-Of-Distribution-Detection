@@ -92,7 +92,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 [(2022) Data Distribution Shifts and Monitoring](https://huyenchip.com/2022/02/07/data-distribution-shifts-and-monitoring.html) by Chip Huyen
 
-[(2023) OpenOOD v1.5 Methods & Benchmarks Overview](https://github.com/Jingkang50/OpenOOD/wiki/OpenOOD-v1.5-methods-%26-benchmarks-overview) ⭐ 1,072 | 🐛 30 | 🌐 Python | 📅 2025-12-01 by the OpenOOD team
+[(2023) OpenOOD v1.5 Methods & Benchmarks Overview](https://github.com/Jingkang50/OpenOOD/wiki/OpenOOD-v1.5-methods-%26-benchmarks-overview) ⭐ 1,071 | 🐛 30 | 🌐 Python | 📅 2025-12-01 by the OpenOOD team
 
 [(2020) Adapting on the Fly to Test-Time Distribution Shift](https://bair.berkeley.edu/blog/2020/11/05/arm/) by BAIR
 
@@ -126,7 +126,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 ## Benchmarks
 
-[OpenOOD](https://github.com/Jingkang50/OpenOOD) ⭐ 1,072 | 🐛 30 | 🌐 Python | 📅 2025-12-01: canonical benchmark suite for generalized OOD detection across classic image settings and methods
+[OpenOOD](https://github.com/Jingkang50/OpenOOD) ⭐ 1,071 | 🐛 30 | 🌐 Python | 📅 2025-12-01: canonical benchmark suite for generalized OOD detection across classic image settings and methods
 
 [OpenOOD-VLM](https://github.com/YBZh/OpenOOD-VLM) ⭐ 2 | 🐛 0 | 📅 2026-06-24: benchmark suite for generalized OOD detection in the vision-language model setting
 
@@ -148,13 +148,13 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 [WOODS](https://woods-benchmarks.github.io/): benchmark suite for out-of-distribution generalization in time-series tasks
 
-[OpenMIBOOD](https://github.com/remic-othr/OpenMIBOOD) ⭐ 49 | 🐛 1 | 🌐 Python | 📅 2026-06-30: medical imaging benchmark suite for OOD detection under covariate, near-OOD, and far-OOD shifts
+[OpenMIBOOD](https://github.com/remic-othr/OpenMIBOOD) ⭐ 50 | 🐛 1 | 🌐 Python | 📅 2026-06-30: medical imaging benchmark suite for OOD detection under covariate, near-OOD, and far-OOD shifts
 
 [Semantic Shift Benchmark (SSB)](https://openreview.net/forum?id=2ql76f4zE3): benchmark for semantic-shift, open-set, and class-level OOD evaluation
 
 ## Libraries
 
-[OpenOOD](https://github.com/Jingkang50/OpenOOD) ⭐ 1,072 | 🐛 30 | 🌐 Python | 📅 2025-12-01: end-to-end OOD framework for training, benchmarking, and evaluating a large set of methods
+[OpenOOD](https://github.com/Jingkang50/OpenOOD) ⭐ 1,071 | 🐛 30 | 🌐 Python | 📅 2025-12-01: end-to-end OOD framework for training, benchmarking, and evaluating a large set of methods
 
 [PyTorch Out-of-Distribution Detection](https://github.com/kkirchheim/pytorch-ood) ⭐ 347 | 🐛 4 | 🌐 Python | 📅 2026-09-07: practical PyTorch library with detectors, losses, datasets, and evaluation utilities
 
@@ -308,7 +308,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (CVPR 2025) [ProHOC: Probabilistic Hierarchical Out-of-Distribution Classification via Multi-Depth Networks](https://openaccess.thecvf.com/content/CVPR2025/html/Wallin_ProHOC_Probabilistic_Hierarchical_Out-of-Distribution_Classification_via_Multi-Depth_Networks_CVPR_2025_paper.html) [\[Code\]](https://github.com/walline/prohoc) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2025-05-07 by Wallin et al.
 
-(CVPR 2025) [OpenMIBOOD: Open Medical Imaging Benchmarks for Out-Of-Distribution Detection](https://openaccess.thecvf.com/content/CVPR2025/html/Gutbrod_OpenMIBOOD_Open_Medical_Imaging_Benchmarks_for_Out-Of-Distribution_Detection_CVPR_2025_paper.html) [\[Code\]](https://github.com/remic-othr/OpenMIBOOD) ⭐ 49 | 🐛 1 | 🌐 Python | 📅 2026-06-30 by Gutbrod et al.
+(CVPR 2025) [OpenMIBOOD: Open Medical Imaging Benchmarks for Out-Of-Distribution Detection](https://openaccess.thecvf.com/content/CVPR2025/html/Gutbrod_OpenMIBOOD_Open_Medical_Imaging_Benchmarks_for_Out-Of-Distribution_Detection_CVPR_2025_paper.html) [\[Code\]](https://github.com/remic-othr/OpenMIBOOD) ⭐ 50 | 🐛 1 | 🌐 Python | 📅 2026-06-30 by Gutbrod et al.
 
 (TMLR 2025) [GROOD: GRadient-Aware Out-of-Distribution Detection](https://openreview.net/forum?id=2V7itvvMVJ) [\[Code\]](https://github.com/mostafaelaraby/Gradient-Aware-OOD-Detection) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-09-03 by ElAraby et al.
 
@@ -632,7 +632,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (CVPR 2022) [Unknown-Aware Object Detection: Learning What You Don't Know from Videos in the Wild](https://arxiv.org/pdf/2203.03800.pdf) [\[Code\]](https://github.com/deeplearning-wisc/stud) ⭐ 120 | 🐛 1 | 🌐 Python | 📅 2023-10-01 by Du et al.
 
-(NeurIPS 2022) ⭐⭐⭐⭐⭐ [OpenOOD: Benchmarking Generalized Out-of-Distribution Detection](https://arxiv.org/pdf/2210.07242.pdf) [\[Code\]](https://github.com/Jingkang50/OpenOOD) ⭐ 1,072 | 🐛 30 | 🌐 Python | 📅 2025-12-01 by Yang et al.
+(NeurIPS 2022) ⭐⭐⭐⭐⭐ [OpenOOD: Benchmarking Generalized Out-of-Distribution Detection](https://arxiv.org/pdf/2210.07242.pdf) [\[Code\]](https://github.com/Jingkang50/OpenOOD) ⭐ 1,071 | 🐛 30 | 🌐 Python | 📅 2025-12-01 by Yang et al.
 
 (NeurIPS 2022) [Boosting Out-of-distribution Detection with Typical Features](https://arxiv.org/pdf/2210.04200.pdf) by Zhu et al.
 
@@ -1256,7 +1256,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (ICLR 2022) [Out-of-distribution Generalization in the Presence of Nuisance-Induced Spurious Correlations](https://openreview.net/pdf?id=12RoR2o32T) [\[Code\]](https://github.com/rajesh-lab/nurd-code-public) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2023-03-07 by Puli et al.
 
-(ICLR 2022) [Uncertainty Modeling for Out-of-Distribution Generalization](https://openreview.net/pdf?id=6HN7LHyzGgC) [\[Code\]](https://github.com/lixiaotong97/DSU) ⭐ 165 | 🐛 4 | 🌐 Python | 📅 2022-03-27 by Li et al.
+(ICLR 2022) [Uncertainty Modeling for Out-of-Distribution Generalization](https://openreview.net/pdf?id=6HN7LHyzGgC) [\[Code\]](https://github.com/lixiaotong97/DSU) ⭐ 166 | 🐛 4 | 🌐 Python | 📅 2022-03-27 by Li et al.
 
 (ICLR 2022) [Invariant Causal Representation Learning for Out-of-Distribution Generalization](https://openreview.net/pdf?id=-e4EXDWXnSn) by Lu et al.
 
@@ -1406,4 +1406,4 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._

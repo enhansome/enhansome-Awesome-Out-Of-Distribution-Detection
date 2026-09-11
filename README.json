@@ -21,7 +21,7 @@
                 "open_issues": 30,
                 "owner": "Jingkang50",
                 "repo": "OpenOOD",
-                "stars": 1072,
+                "stars": 1071,
                 "topics": [
                   "anomaly-detection",
                   "novelty-detection",
@@ -167,7 +167,7 @@
                 "open_issues": 1,
                 "owner": "remic-othr",
                 "repo": "OpenMIBOOD",
-                "stars": 49,
+                "stars": 50,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:14.707Z"
@@ -195,7 +195,7 @@
                 "open_issues": 30,
                 "owner": "Jingkang50",
                 "repo": "OpenOOD",
-                "stars": 1072,
+                "stars": 1071,
                 "topics": [
                   "anomaly-detection",
                   "novelty-detection",
@@ -342,7 +342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T19:41:54.804Z",
+    "last_updated": "2026-09-11T19:43:29.740Z",
     "original_repository_info": {
       "archived": false,
       "description": "Out-of-distribution detection, robustness, and generalization resources. The repository contains a curated list of papers, tutorials, books, videos, articles and open-source libraries etc",
@@ -354,7 +354,7 @@
       "open_issues": 0,
       "owner": "huytransformer",
       "repo": "Awesome-Out-Of-Distribution-Detection",
-      "stars": 1022,
+      "stars": 1023,
       "topics": [
         "anomaly",
         "anomaly-detection",
