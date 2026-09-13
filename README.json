@@ -21,7 +21,7 @@
                 "open_issues": 30,
                 "owner": "Jingkang50",
                 "repo": "OpenOOD",
-                "stars": 1071,
+                "stars": 1074,
                 "topics": [
                   "anomaly-detection",
                   "novelty-detection",
@@ -70,7 +70,7 @@
                 "open_issues": 7,
                 "owner": "facebookresearch",
                 "repo": "DomainBed",
-                "stars": 1631,
+                "stars": 1632,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:14.707Z"
@@ -195,7 +195,7 @@
                 "open_issues": 30,
                 "owner": "Jingkang50",
                 "repo": "OpenOOD",
-                "stars": 1071,
+                "stars": 1074,
                 "topics": [
                   "anomaly-detection",
                   "novelty-detection",
@@ -220,7 +220,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-07T15:14:24Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "kkirchheim",
                 "repo": "pytorch-ood",
                 "stars": 347,
@@ -342,7 +342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T19:22:45.797Z",
+    "last_updated": "2026-09-13T19:28:35.901Z",
     "original_repository_info": {
       "archived": false,
       "description": "Out-of-distribution detection, robustness, and generalization resources. The repository contains a curated list of papers, tutorials, books, videos, articles and open-source libraries etc",
