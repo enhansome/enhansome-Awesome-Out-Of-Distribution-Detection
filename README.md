@@ -774,7 +774,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (NeurIPS 2020) [Towards Maximizing the Representation Gap between In-Domain & Out-of-Distribution Examples](https://proceedings.neurips.cc/paper/2020/file/68d3743587f71fbaa5062152985aff40-Paper.pdf) [\[Code\]](https://github.com/jayjaynandy/maximize-representation-gap) ⭐ 7 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-12-18 by Nandy et al.
 
-(NeurIPS 2020) [Likelihood Regret: An Out-of-Distribution Detection Score For Variational Auto-encoder](https://proceedings.neurips.cc/paper/2020/file/eddea82ad2755b24c4e168c5fc2ebd40-Paper.pdf) [\[Code\]](https://github.com/XavierXiao/Likelihood-Regret) ⭐ 51 | 🐛 2 | 🌐 Python | 📅 2021-05-11 by Xiao et al.
+(NeurIPS 2020) [Likelihood Regret: An Out-of-Distribution Detection Score For Variational Auto-encoder](https://proceedings.neurips.cc/paper/2020/file/eddea82ad2755b24c4e168c5fc2ebd40-Paper.pdf) [\[Code\]](https://github.com/XavierXiao/Likelihood-Regret) ⭐ 52 | 🐛 2 | 🌐 Python | 📅 2021-05-11 by Xiao et al.
 
 (NeurIPS 2020) ⭐⭐⭐⭐⭐ [Why Normalizing Flows Fail to Detect Out-of-Distribution Data](https://proceedings.neurips.cc/paper/2020/file/ecb9fe2fbb99c31f567e9823e884dbec-Paper.pdf) [\[Code\]](https://github.com/PolinaKirichenko/flows_ood) ⭐ 87 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2021-11-02 by Kirichenko et al.
 
@@ -1406,4 +1406,4 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
