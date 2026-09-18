@@ -223,7 +223,7 @@
                 "open_issues": 5,
                 "owner": "kkirchheim",
                 "repo": "pytorch-ood",
-                "stars": 347,
+                "stars": 348,
                 "topics": [
                   "anomaly-detection",
                   "confidence-estimation",
@@ -342,7 +342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T20:20:14.774Z",
+    "last_updated": "2026-09-18T19:37:35.202Z",
     "original_repository_info": {
       "archived": false,
       "description": "Out-of-distribution detection, robustness, and generalization resources. The repository contains a curated list of papers, tutorials, books, videos, articles and open-source libraries etc",

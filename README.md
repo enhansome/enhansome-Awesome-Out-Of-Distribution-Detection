@@ -156,7 +156,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 [OpenOOD](https://github.com/Jingkang50/OpenOOD) ⭐ 1,077 | 🐛 30 | 🌐 Python | 📅 2025-12-01: end-to-end OOD framework for training, benchmarking, and evaluating a large set of methods
 
-[PyTorch Out-of-Distribution Detection](https://github.com/kkirchheim/pytorch-ood) ⭐ 347 | 🐛 5 | 🌐 Python | 📅 2026-09-07: practical PyTorch library with detectors, losses, datasets, and evaluation utilities
+[PyTorch Out-of-Distribution Detection](https://github.com/kkirchheim/pytorch-ood) ⭐ 348 | 🐛 5 | 🌐 Python | 📅 2026-09-07: practical PyTorch library with detectors, losses, datasets, and evaluation utilities
 
 [OODEEL](https://github.com/deel-ai/oodeel) ⭐ 61 | 🐛 20 | 🌐 Python | 📅 2026-05-19: compact post-hoc OOD toolkit for TensorFlow and PyTorch image classifiers
 
@@ -1358,7 +1358,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (CVPR 2024) [Descriptor and Word Soups: Overcoming the Parameter Efficiency Accuracy Tradeoff for Out-of-Distribution Few-shot Learning](https://openaccess.thecvf.com/content/CVPR2024/papers/Liao_Descriptor_and_Word_Soups_Overcoming_the_Parameter_Efficiency_Accuracy_Tradeoff_CVPR_2024_paper.pdf) [\[Code\]](https://github.com/Chris210634/word_soups) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2024-04-15 by Liao et al.
 
-(CVPR 2024) [Segment Every Out-of-Distribution Object](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_Segment_Every_Out-of-Distribution_Object_CVPR_2024_paper.pdf) [\[Code\]](https://github.com/WenjieZhao1/S2M) ⭐ 27 | 🐛 4 | 🌐 Python | 📅 2025-01-09 by Zhao et al.
+(CVPR 2024) [Segment Every Out-of-Distribution Object](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_Segment_Every_Out-of-Distribution_Object_CVPR_2024_paper.pdf) [\[Code\]](https://github.com/WenjieZhao1/S2M) ⭐ 27 | 🐛 5 | 🌐 Python | 📅 2025-01-09 by Zhao et al.
 
 (ICCV 2023) [Adaptive Calibrator Ensemble: Navigating Test Set Difficulty in Out-of-Distribution Scenarios](https://openaccess.thecvf.com/content/ICCV2023/papers/Zou_Adaptive_Calibrator_Ensemble_Navigating_Test_Set_Difficulty_in_Out-of-Distribution_Scenarios_ICCV_2023_paper.pdf) [\[Code\]](https://github.com/insysgroup/Adaptive-Calibrator-Ensemble) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2024-02-28 by Zou and Deng et al.
 
@@ -1406,4 +1406,4 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
