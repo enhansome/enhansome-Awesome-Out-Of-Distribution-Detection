@@ -148,7 +148,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 [WOODS](https://woods-benchmarks.github.io/): benchmark suite for out-of-distribution generalization in time-series tasks
 
-[OpenMIBOOD](https://github.com/remic-othr/OpenMIBOOD) ⭐ 50 | 🐛 1 | 🌐 Python | 📅 2026-06-30: medical imaging benchmark suite for OOD detection under covariate, near-OOD, and far-OOD shifts
+[OpenMIBOOD](https://github.com/remic-othr/OpenMIBOOD) ⭐ 51 | 🐛 1 | 🌐 Python | 📅 2026-06-30: medical imaging benchmark suite for OOD detection under covariate, near-OOD, and far-OOD shifts
 
 [Semantic Shift Benchmark (SSB)](https://openreview.net/forum?id=2ql76f4zE3): benchmark for semantic-shift, open-set, and class-level OOD evaluation
 
@@ -160,7 +160,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 [OODEEL](https://github.com/deel-ai/oodeel) ⭐ 61 | 🐛 20 | 🌐 Python | 📅 2026-05-19: compact post-hoc OOD toolkit for TensorFlow and PyTorch image classifiers
 
-[TorchUncertainty](https://github.com/ENSTA-U2IS-AI/torch-uncertainty) ⭐ 527 | 🐛 26 | 🌐 Python | 📅 2026-09-01: broader uncertainty framework with strong support for OOD metrics, evaluation, and tutorials
+[TorchUncertainty](https://github.com/ENSTA-U2IS-AI/torch-uncertainty) ⭐ 528 | 🐛 26 | 🌐 Python | 📅 2026-09-01: broader uncertainty framework with strong support for OOD metrics, evaluation, and tutorials
 
 [Alibi Detect](https://github.com/SeldonIO/alibi-detect) ⭐ 2,549 | 🐛 146 | 🌐 Jupyter Notebook | 📅 2025-12-11: high-quality toolkit for outlier, adversarial, and drift detection across modalities
 
@@ -308,7 +308,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (CVPR 2025) [ProHOC: Probabilistic Hierarchical Out-of-Distribution Classification via Multi-Depth Networks](https://openaccess.thecvf.com/content/CVPR2025/html/Wallin_ProHOC_Probabilistic_Hierarchical_Out-of-Distribution_Classification_via_Multi-Depth_Networks_CVPR_2025_paper.html) [\[Code\]](https://github.com/walline/prohoc) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2025-05-07 by Wallin et al.
 
-(CVPR 2025) [OpenMIBOOD: Open Medical Imaging Benchmarks for Out-Of-Distribution Detection](https://openaccess.thecvf.com/content/CVPR2025/html/Gutbrod_OpenMIBOOD_Open_Medical_Imaging_Benchmarks_for_Out-Of-Distribution_Detection_CVPR_2025_paper.html) [\[Code\]](https://github.com/remic-othr/OpenMIBOOD) ⭐ 50 | 🐛 1 | 🌐 Python | 📅 2026-06-30 by Gutbrod et al.
+(CVPR 2025) [OpenMIBOOD: Open Medical Imaging Benchmarks for Out-Of-Distribution Detection](https://openaccess.thecvf.com/content/CVPR2025/html/Gutbrod_OpenMIBOOD_Open_Medical_Imaging_Benchmarks_for_Out-Of-Distribution_Detection_CVPR_2025_paper.html) [\[Code\]](https://github.com/remic-othr/OpenMIBOOD) ⭐ 51 | 🐛 1 | 🌐 Python | 📅 2026-06-30 by Gutbrod et al.
 
 (TMLR 2025) [GROOD: GRadient-Aware Out-of-Distribution Detection](https://openreview.net/forum?id=2V7itvvMVJ) [\[Code\]](https://github.com/mostafaelaraby/Gradient-Aware-OOD-Detection) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-09-03 by ElAraby et al.
 
@@ -1406,4 +1406,4 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
