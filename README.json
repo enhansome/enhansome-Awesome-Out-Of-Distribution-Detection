@@ -219,8 +219,8 @@
                 "id": 527624781,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-07T15:14:24Z",
-                "open_issues": 5,
+                "last_commit": "2026-09-22T14:23:41Z",
+                "open_issues": 6,
                 "owner": "kkirchheim",
                 "repo": "pytorch-ood",
                 "stars": 348,
@@ -278,7 +278,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-01T10:43:37Z",
-                "open_issues": 26,
+                "open_issues": 27,
                 "owner": "torch-uncertainty",
                 "repo": "torch-uncertainty",
                 "stars": 528,
@@ -310,7 +310,7 @@
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
                 "last_commit": "2025-12-11T16:35:15Z",
-                "open_issues": 146,
+                "open_issues": 147,
                 "owner": "SeldonIO",
                 "repo": "alibi-detect",
                 "stars": 2549,
@@ -342,7 +342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T21:05:10.589Z",
+    "last_updated": "2026-09-22T20:11:51.377Z",
     "original_repository_info": {
       "archived": false,
       "description": "Out-of-distribution detection, robustness, and generalization resources. The repository contains a curated list of papers, tutorials, books, videos, articles and open-source libraries etc",

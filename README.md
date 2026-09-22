@@ -156,13 +156,13 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 [OpenOOD](https://github.com/Jingkang50/OpenOOD) ⭐ 1,077 | 🐛 30 | 🌐 Python | 📅 2025-12-01: end-to-end OOD framework for training, benchmarking, and evaluating a large set of methods
 
-[PyTorch Out-of-Distribution Detection](https://github.com/kkirchheim/pytorch-ood) ⭐ 348 | 🐛 5 | 🌐 Python | 📅 2026-09-07: practical PyTorch library with detectors, losses, datasets, and evaluation utilities
+[PyTorch Out-of-Distribution Detection](https://github.com/kkirchheim/pytorch-ood) ⭐ 348 | 🐛 6 | 🌐 Python | 📅 2026-09-22: practical PyTorch library with detectors, losses, datasets, and evaluation utilities
 
 [OODEEL](https://github.com/deel-ai/oodeel) ⭐ 61 | 🐛 20 | 🌐 Python | 📅 2026-05-19: compact post-hoc OOD toolkit for TensorFlow and PyTorch image classifiers
 
-[TorchUncertainty](https://github.com/ENSTA-U2IS-AI/torch-uncertainty) ⭐ 528 | 🐛 26 | 🌐 Python | 📅 2026-09-01: broader uncertainty framework with strong support for OOD metrics, evaluation, and tutorials
+[TorchUncertainty](https://github.com/ENSTA-U2IS-AI/torch-uncertainty) ⭐ 528 | 🐛 27 | 🌐 Python | 📅 2026-09-01: broader uncertainty framework with strong support for OOD metrics, evaluation, and tutorials
 
-[Alibi Detect](https://github.com/SeldonIO/alibi-detect) ⭐ 2,549 | 🐛 146 | 🌐 Jupyter Notebook | 📅 2025-12-11: high-quality toolkit for outlier, adversarial, and drift detection across modalities
+[Alibi Detect](https://github.com/SeldonIO/alibi-detect) ⭐ 2,549 | 🐛 147 | 🌐 Jupyter Notebook | 📅 2025-12-11: high-quality toolkit for outlier, adversarial, and drift detection across modalities
 
 # Surveys
 
@@ -746,7 +746,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (NeurIPS 2021) [Can multi-label classification networks know what they don't know?](https://arxiv.org/pdf/2109.14162.pdf) [\[Code\]](https://github.com/deeplearning-wisc/multi-label-ood) ⭐ 46 | 🐛 3 | 🌐 Python | 📅 2021-09-22 by Wang et al.
 
-(ICLR 2021) [SSD: A Unified Framework for Self-Supervised Outlier Detection](https://arxiv.org/pdf/2103.12051.pdf) [\[Code\]](https://github.com/inspire-group/SSD) ⭐ 139 | 🐛 2 | 🌐 Python | 📅 2021-07-16 by Sehwag et al.
+(ICLR 2021) [SSD: A Unified Framework for Self-Supervised Outlier Detection](https://arxiv.org/pdf/2103.12051.pdf) [\[Code\]](https://github.com/inspire-group/SSD) ⭐ 137 | 🐛 2 | 🌐 Python | 📅 2021-07-16 by Sehwag et al.
 
 (ICLR 2021) [Multiscale Score Matching for Out-of-Distribution Detection](https://openreview.net/pdf?id=xoHdgbQJohv) [\[Code\]](https://github.com/ahsanMah/msma) ⭐ 12 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-01-19 by Mahmood et al.
 
@@ -1406,4 +1406,4 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
