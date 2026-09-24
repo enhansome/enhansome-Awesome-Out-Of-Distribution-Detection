@@ -160,9 +160,9 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 [OODEEL](https://github.com/deel-ai/oodeel) ⭐ 61 | 🐛 20 | 🌐 Python | 📅 2026-05-19: compact post-hoc OOD toolkit for TensorFlow and PyTorch image classifiers
 
-[TorchUncertainty](https://github.com/ENSTA-U2IS-AI/torch-uncertainty) ⭐ 528 | 🐛 27 | 🌐 Python | 📅 2026-09-01: broader uncertainty framework with strong support for OOD metrics, evaluation, and tutorials
+[TorchUncertainty](https://github.com/ENSTA-U2IS-AI/torch-uncertainty) ⭐ 529 | 🐛 27 | 🌐 Python | 📅 2026-09-01: broader uncertainty framework with strong support for OOD metrics, evaluation, and tutorials
 
-[Alibi Detect](https://github.com/SeldonIO/alibi-detect) ⭐ 2,549 | 🐛 147 | 🌐 Jupyter Notebook | 📅 2025-12-11: high-quality toolkit for outlier, adversarial, and drift detection across modalities
+[Alibi Detect](https://github.com/SeldonIO/alibi-detect) ⭐ 2,548 | 🐛 147 | 🌐 Jupyter Notebook | 📅 2025-12-11: high-quality toolkit for outlier, adversarial, and drift detection across modalities
 
 # Surveys
 
@@ -674,7 +674,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (ICML 2022) [POEM: Out-of-Distribution Detection with Posterior Sampling](https://proceedings.mlr.press/v162/ming22a/ming22a.pdf) [\[Code\]](https://github.com/deeplearning-wisc/poem) ⭐ 28 | 🐛 1 | 🌐 Python | 📅 2023-05-06 by Ming et al.
 
-(ICML 2022) [(kNN) Out-of-Distribution Detection with Deep Nearest Neighbors](https://arxiv.org/pdf/2204.06507.pdf) [\[Code\]](https://github.com/deeplearning-wisc/knn-ood) ⭐ 204 | 🐛 2 | 🌐 Python | 📅 2024-07-12 by Sun et al.
+(ICML 2022) [(kNN) Out-of-Distribution Detection with Deep Nearest Neighbors](https://arxiv.org/pdf/2204.06507.pdf) [\[Code\]](https://github.com/deeplearning-wisc/knn-ood) ⭐ 205 | 🐛 2 | 🌐 Python | 📅 2024-07-12 by Sun et al.
 
 (ICML 2022) [Training OOD Detectors in their Natural Habitats](https://proceedings.mlr.press/v162/katz-samuels22a/katz-samuels22a.pdf) by Katz-Samuels et al.
 
@@ -738,7 +738,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (NeurIPS 2021) [RankFeat: Rank-1 Feature Removal for Out-of-distribution Detection](https://arxiv.org/pdf/2209.08590.pdf) [\[Code\]](https://github.com/KingJamesSong/RankFeat) ⭐ 20 | 🐛 1 | 🌐 Python | 📅 2025-02-21 by Song et al.
 
-(NeurIPS 2021) ⭐⭐⭐⭐⭐ [ReAct: Out-of-distribution Detection With Rectified Activations](https://arxiv.org/pdf/2111.12797.pdf) [\[Code\]](https://github.com/deeplearning-wisc/react) ⭐ 58 | 🐛 3 | 🌐 Python | 📅 2022-03-24 by Sun et al.
+(NeurIPS 2021) ⭐⭐⭐⭐⭐ [ReAct: Out-of-distribution Detection With Rectified Activations](https://arxiv.org/pdf/2111.12797.pdf) [\[Code\]](https://github.com/deeplearning-wisc/react) ⭐ 59 | 🐛 3 | 🌐 Python | 📅 2022-03-24 by Sun et al.
 
 (NeurIPS 2021) ⭐⭐⭐⭐⭐ [(GradNorm) On the Importance of Gradients for Detecting Distributional Shifts in the Wild](https://arxiv.org/pdf/2110.00218.pdf) [\[Code\]](https://github.com/deeplearning-wisc/gradnorm_ood) ⭐ 56 | 🐛 3 | 🌐 Python | 📅 2022-08-03 by Huang et al.
 
@@ -1310,7 +1310,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (NeurIPS 2025) [Human Texts Are Outliers: Detecting LLM-generated Texts via Out-of-distribution Detection](https://neurips.cc/virtual/2025/poster/120309) [\[Code\]](https://github.com/cong-zeng/ood-llm-detect) ⭐ 13 | 🐛 3 | 🌐 Python | 📅 2025-11-08 by Zeng et al.
 
-(NeurIPS 2025) [Reinforcement Learning for Out-of-Distribution Reasoning in LLMs: An Empirical Study on Diagnosis-Related Group Coding](https://neurips.cc/virtual/2025/poster/120291) [\[Code\]](https://github.com/hanyin88/DRG-Sapphire) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2025-09-19 by Wang et al.
+(NeurIPS 2025) [Reinforcement Learning for Out-of-Distribution Reasoning in LLMs: An Empirical Study on Diagnosis-Related Group Coding](https://neurips.cc/virtual/2025/poster/120291) [\[Code\]](https://github.com/hanyin88/DRG-Sapphire) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2025-09-19 by Wang et al.
 
 (CVPR 2025) [COUNTS: Benchmarking Object Detectors and Multimodal Large Language Models under Distribution Shifts](https://openaccess.thecvf.com/content/CVPR2025/html/Li_COUNTS_Benchmarking_Object_Detectors_and_Multimodal_Large_Language_Models_under_CVPR_2025_paper.html) by Li et al.
 
@@ -1352,7 +1352,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (ICML 2024) [A Generative Approach for Treatment Effect Estimation under Collider Bias: From an Out-of-Distribution Perspective](https://openreview.net/pdf?id=kUj9b2CezT) [\[Code\]](https://github.com/ZJUBaohongLi/C2GAM) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2024-10-30 by Li et al.
 
-(CVPR 2024) [Unexplored Faces of Robustness and Out-of-Distribution: Covariate Shifts in Environment and Sensor Domains](https://openaccess.thecvf.com/content/CVPR2024/papers/Baek_Unexplored_Faces_of_Robustness_and_Out-of-Distribution_Covariate_Shifts_in_Environment_CVPR_2024_paper.pdf) [\[Code\]](https://github.com/Edw2n/ImageNet-ES) ⭐ 12 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-01-17 by Baek et al.
+(CVPR 2024) [Unexplored Faces of Robustness and Out-of-Distribution: Covariate Shifts in Environment and Sensor Domains](https://openaccess.thecvf.com/content/CVPR2024/papers/Baek_Unexplored_Faces_of_Robustness_and_Out-of-Distribution_Covariate_Shifts_in_Environment_CVPR_2024_paper.pdf) [\[Code\]](https://github.com/Edw2n/ImageNet-ES) ⭐ 13 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-01-17 by Baek et al.
 
 (CVPR 2024) [Label-Efficient Group Robustness via Out-of-Distribution Concept Curation](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Label-Efficient_Group_Robustness_via_Out-of-Distribution_Concept_Curation_CVPR_2024_paper.pdf) by Yang et al.
 
@@ -1406,4 +1406,4 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._

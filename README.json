@@ -281,7 +281,7 @@
                 "open_issues": 27,
                 "owner": "torch-uncertainty",
                 "repo": "torch-uncertainty",
-                "stars": 528,
+                "stars": 529,
                 "topics": [
                   "bayesian-network",
                   "computer-vision",
@@ -313,7 +313,7 @@
                 "open_issues": 147,
                 "owner": "SeldonIO",
                 "repo": "alibi-detect",
-                "stars": 2549,
+                "stars": 2548,
                 "topics": [
                   "adversarial",
                   "anomaly",
@@ -342,7 +342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T20:22:54.471Z",
+    "last_updated": "2026-09-24T20:30:38.737Z",
     "original_repository_info": {
       "archived": false,
       "description": "Out-of-distribution detection, robustness, and generalization resources. The repository contains a curated list of papers, tutorials, books, videos, articles and open-source libraries etc",
