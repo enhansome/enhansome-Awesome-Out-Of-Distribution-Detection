@@ -160,7 +160,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 [OODEEL](https://github.com/deel-ai/oodeel) ⭐ 61 | 🐛 20 | 🌐 Python | 📅 2026-05-19: compact post-hoc OOD toolkit for TensorFlow and PyTorch image classifiers
 
-[TorchUncertainty](https://github.com/ENSTA-U2IS-AI/torch-uncertainty) ⭐ 530 | 🐛 27 | 🌐 Python | 📅 2026-09-01: broader uncertainty framework with strong support for OOD metrics, evaluation, and tutorials
+[TorchUncertainty](https://github.com/ENSTA-U2IS-AI/torch-uncertainty) ⭐ 530 | 🐛 28 | 🌐 Python | 📅 2026-09-01: broader uncertainty framework with strong support for OOD metrics, evaluation, and tutorials
 
 [Alibi Detect](https://github.com/SeldonIO/alibi-detect) ⭐ 2,548 | 🐛 147 | 🌐 Jupyter Notebook | 📅 2025-12-11: high-quality toolkit for outlier, adversarial, and drift detection across modalities
 
@@ -1308,7 +1308,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (NeurIPS 2025) [Rethinking Out-of-Distribution Detection and Generalization with Collective Behavior Dynamics](https://neurips.cc/virtual/2025/poster/117703) by Wang et al.
 
-(NeurIPS 2025) [Human Texts Are Outliers: Detecting LLM-generated Texts via Out-of-distribution Detection](https://neurips.cc/virtual/2025/poster/120309) [\[Code\]](https://github.com/cong-zeng/ood-llm-detect) ⭐ 13 | 🐛 3 | 🌐 Python | 📅 2025-11-08 by Zeng et al.
+(NeurIPS 2025) [Human Texts Are Outliers: Detecting LLM-generated Texts via Out-of-distribution Detection](https://neurips.cc/virtual/2025/poster/120309) [\[Code\]](https://github.com/cong-zeng/ood-llm-detect) ⭐ 12 | 🐛 3 | 🌐 Python | 📅 2025-11-08 by Zeng et al.
 
 (NeurIPS 2025) [Reinforcement Learning for Out-of-Distribution Reasoning in LLMs: An Empirical Study on Diagnosis-Related Group Coding](https://neurips.cc/virtual/2025/poster/120291) [\[Code\]](https://github.com/hanyin88/DRG-Sapphire) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2025-09-19 by Wang et al.
 
@@ -1406,4 +1406,4 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
