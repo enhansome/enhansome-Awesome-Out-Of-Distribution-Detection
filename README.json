@@ -70,7 +70,7 @@
                 "open_issues": 7,
                 "owner": "facebookresearch",
                 "repo": "DomainBed",
-                "stars": 1631,
+                "stars": 1632,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:14.707Z"
@@ -278,7 +278,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-01T10:43:37Z",
-                "open_issues": 28,
+                "open_issues": 29,
                 "owner": "torch-uncertainty",
                 "repo": "torch-uncertainty",
                 "stars": 530,
@@ -342,7 +342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T19:52:36.403Z",
+    "last_updated": "2026-09-27T20:09:00.030Z",
     "original_repository_info": {
       "archived": false,
       "description": "Out-of-distribution detection, robustness, and generalization resources. The repository contains a curated list of papers, tutorials, books, videos, articles and open-source libraries etc",
