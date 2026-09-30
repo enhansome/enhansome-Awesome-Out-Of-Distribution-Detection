@@ -310,10 +310,10 @@
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
                 "last_commit": "2025-12-11T16:35:15Z",
-                "open_issues": 148,
+                "open_issues": 149,
                 "owner": "SeldonIO",
                 "repo": "alibi-detect",
-                "stars": 2547,
+                "stars": 2546,
                 "topics": [
                   "adversarial",
                   "anomaly",
@@ -342,7 +342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T21:24:28.670Z",
+    "last_updated": "2026-09-30T21:25:35.285Z",
     "original_repository_info": {
       "archived": false,
       "description": "Out-of-distribution detection, robustness, and generalization resources. The repository contains a curated list of papers, tutorials, books, videos, articles and open-source libraries etc",
