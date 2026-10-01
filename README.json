@@ -91,7 +91,7 @@
                 "open_issues": 1,
                 "owner": "divelab",
                 "repo": "GOOD",
-                "stars": 210,
+                "stars": 211,
                 "topics": [
                   "deep-learning",
                   "distribution-shift",
@@ -219,7 +219,7 @@
                 "id": 527624781,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-23T14:47:43Z",
+                "last_commit": "2026-10-01T16:02:02Z",
                 "open_issues": 2,
                 "owner": "kkirchheim",
                 "repo": "pytorch-ood",
@@ -342,7 +342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T21:25:35.285Z",
+    "last_updated": "2026-10-01T21:49:58.184Z",
     "original_repository_info": {
       "archived": false,
       "description": "Out-of-distribution detection, robustness, and generalization resources. The repository contains a curated list of papers, tutorials, books, videos, articles and open-source libraries etc",

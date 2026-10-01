@@ -134,7 +134,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 [DomainBed](https://github.com/facebookresearch/DomainBed) ⚠️ Archived: standard evaluation suite for domain generalization and out-of-domain robustness
 
-[GOOD](https://github.com/divelab/GOOD) ⭐ 210 | 🐛 1 | 🌐 Python | 📅 2025-02-21: leading benchmark suite for graph out-of-distribution and graph domain generalization
+[GOOD](https://github.com/divelab/GOOD) ⭐ 211 | 🐛 1 | 🌐 Python | 📅 2025-02-21: leading benchmark suite for graph out-of-distribution and graph domain generalization
 
 [DrugOOD](https://drugood.github.io/): benchmark and platform for out-of-distribution generalization in AI-aided drug discovery
 
@@ -156,7 +156,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 [OpenOOD](https://github.com/Jingkang50/OpenOOD) ⭐ 1,079 | 🐛 30 | 🌐 Python | 📅 2025-12-01: end-to-end OOD framework for training, benchmarking, and evaluating a large set of methods
 
-[PyTorch Out-of-Distribution Detection](https://github.com/kkirchheim/pytorch-ood) ⭐ 348 | 🐛 2 | 🌐 Python | 📅 2026-09-23: practical PyTorch library with detectors, losses, datasets, and evaluation utilities
+[PyTorch Out-of-Distribution Detection](https://github.com/kkirchheim/pytorch-ood) ⭐ 348 | 🐛 2 | 🌐 Python | 📅 2026-10-01: practical PyTorch library with detectors, losses, datasets, and evaluation utilities
 
 [OODEEL](https://github.com/deel-ai/oodeel) ⭐ 61 | 🐛 20 | 🌐 Python | 📅 2026-05-19: compact post-hoc OOD toolkit for TensorFlow and PyTorch image classifiers
 
@@ -644,7 +644,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (NeurIPS 2022) [Out-of-Distribution Detection with An Adaptive Likelihood Ratio on Informative Hierarchical VAE](https://proceedings.neurips.cc/paper_files/paper/2022/file/3066f60a91d652f4dc690637ac3a2f8c-Paper-Conference.pdf) by Li et al.
 
-(NeurIPS 2022) [GOOD: A Graph Out-of-Distribution Benchmark](https://proceedings.neurips.cc/paper_files/paper/2022/file/0dc91de822b71c66a7f54fa121d8cbb9-Paper-Datasets_and_Benchmarks.pdf) [\[Code\]](https://github.com/divelab/GOOD) ⭐ 210 | 🐛 1 | 🌐 Python | 📅 2025-02-21 by Gui et al.
+(NeurIPS 2022) [GOOD: A Graph Out-of-Distribution Benchmark](https://proceedings.neurips.cc/paper_files/paper/2022/file/0dc91de822b71c66a7f54fa121d8cbb9-Paper-Datasets_and_Benchmarks.pdf) [\[Code\]](https://github.com/divelab/GOOD) ⭐ 211 | 🐛 1 | 🌐 Python | 📅 2025-02-21 by Gui et al.
 
 (NeurIPS 2022) ⭐⭐⭐⭐⭐ [Is Out-of-Distribution Detection Learnable?](https://proceedings.neurips.cc/paper_files/paper/2022/file/f0e91b1314fa5eabf1d7ef6d1561ecec-Paper-Conference.pdf) by Fang et al.
 
@@ -674,7 +674,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (ICML 2022) [POEM: Out-of-Distribution Detection with Posterior Sampling](https://proceedings.mlr.press/v162/ming22a/ming22a.pdf) [\[Code\]](https://github.com/deeplearning-wisc/poem) ⭐ 28 | 🐛 1 | 🌐 Python | 📅 2023-05-06 by Ming et al.
 
-(ICML 2022) [(kNN) Out-of-Distribution Detection with Deep Nearest Neighbors](https://arxiv.org/pdf/2204.06507.pdf) [\[Code\]](https://github.com/deeplearning-wisc/knn-ood) ⭐ 205 | 🐛 2 | 🌐 Python | 📅 2024-07-12 by Sun et al.
+(ICML 2022) [(kNN) Out-of-Distribution Detection with Deep Nearest Neighbors](https://arxiv.org/pdf/2204.06507.pdf) [\[Code\]](https://github.com/deeplearning-wisc/knn-ood) ⭐ 206 | 🐛 2 | 🌐 Python | 📅 2024-07-12 by Sun et al.
 
 (ICML 2022) [Training OOD Detectors in their Natural Habitats](https://proceedings.mlr.press/v162/katz-samuels22a/katz-samuels22a.pdf) by Katz-Samuels et al.
 
@@ -1148,7 +1148,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (Nature) [Out-of-distribution generalization for learning quantum dynamics](https://www.nature.com/articles/s41467-023-39381-w) by Caro et al.
 
-(ICML 2024) [CRoFT: Robust Fine-Tuning with Concurrent Optimization for OOD Generalization and Open-Set OOD Detection](https://openreview.net/pdf?id=xFDJBzPhci) [\[Code\]](https://github.com/LinLLLL/CRoFT) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2026-05-27 by Zhu et al.
+(ICML 2024) [CRoFT: Robust Fine-Tuning with Concurrent Optimization for OOD Generalization and Open-Set OOD Detection](https://openreview.net/pdf?id=xFDJBzPhci) [\[Code\]](https://github.com/LinLLLL/CRoFT) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-05-27 by Zhu et al.
 
 (ICML 2024) [Time-Series Forecasting for Out-of-Distribution Generalization Using Invariant Learning](https://openreview.net/pdf?id=SMUXPVKUBg) [\[Code\]](https://github.com/AdityaLab/FOIL) ⭐ 46 | 🐛 1 | 🌐 Python | 📅 2024-07-25 by Liu et al.
 
@@ -1406,4 +1406,4 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
