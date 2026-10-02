@@ -219,8 +219,8 @@
                 "id": 527624781,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T16:02:02Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-02T20:03:06Z",
+                "open_issues": 3,
                 "owner": "kkirchheim",
                 "repo": "pytorch-ood",
                 "stars": 348,
@@ -342,7 +342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T21:49:58.184Z",
+    "last_updated": "2026-10-02T21:19:45.806Z",
     "original_repository_info": {
       "archived": false,
       "description": "Out-of-distribution detection, robustness, and generalization resources. The repository contains a curated list of papers, tutorials, books, videos, articles and open-source libraries etc",
@@ -354,7 +354,7 @@
       "open_issues": 0,
       "owner": "huytransformer",
       "repo": "Awesome-Out-Of-Distribution-Detection",
-      "stars": 1025,
+      "stars": 1026,
       "topics": [
         "anomaly",
         "anomaly-detection",
