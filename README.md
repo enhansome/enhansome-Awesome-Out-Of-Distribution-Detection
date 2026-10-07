@@ -730,7 +730,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (NeurIPS 2021) [Exploring the Limits of Out-of-Distribution Detection](https://openreview.net/pdf?id=j5NrN8ffXC) [\[Code\]](https://github.com/stanislavfort/exploring_the_limits_of_OOD_detection) ⭐ 44 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2022-01-14 by Fort et al.
 
-(NeurIPS 2021) [Learning Causal Semantic Representation for Out-of-Distribution Prediction](https://openreview.net/pdf?id=-msETI57gCH) [\[Code\]](https://github.com/changliu00/causal-semantic-generative-model) ⭐ 76 | 🐛 1 | 🌐 Python | 📅 2022-04-18 by Liu et al.
+(NeurIPS 2021) [Learning Causal Semantic Representation for Out-of-Distribution Prediction](https://openreview.net/pdf?id=-msETI57gCH) [\[Code\]](https://github.com/changliu00/causal-semantic-generative-model) ⭐ 77 | 🐛 1 | 🌐 Python | 📅 2022-04-18 by Liu et al.
 
 (NeurIPS 2021) [Towards optimally abstaining from prediction with OOD test examples](https://openreview.net/pdf?id=P9_gOq5w7Eb) by Kalai and Kanade
 
@@ -738,7 +738,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (NeurIPS 2021) [RankFeat: Rank-1 Feature Removal for Out-of-distribution Detection](https://arxiv.org/pdf/2209.08590.pdf) [\[Code\]](https://github.com/KingJamesSong/RankFeat) ⭐ 20 | 🐛 1 | 🌐 Python | 📅 2025-02-21 by Song et al.
 
-(NeurIPS 2021) ⭐⭐⭐⭐⭐ [ReAct: Out-of-distribution Detection With Rectified Activations](https://arxiv.org/pdf/2111.12797.pdf) [\[Code\]](https://github.com/deeplearning-wisc/react) ⭐ 59 | 🐛 3 | 🌐 Python | 📅 2022-03-24 by Sun et al.
+(NeurIPS 2021) ⭐⭐⭐⭐⭐ [ReAct: Out-of-distribution Detection With Rectified Activations](https://arxiv.org/pdf/2111.12797.pdf) [\[Code\]](https://github.com/deeplearning-wisc/react) ⭐ 60 | 🐛 3 | 🌐 Python | 📅 2022-03-24 by Sun et al.
 
 (NeurIPS 2021) ⭐⭐⭐⭐⭐ [(GradNorm) On the Importance of Gradients for Detecting Distributional Shifts in the Wild](https://arxiv.org/pdf/2110.00218.pdf) [\[Code\]](https://github.com/deeplearning-wisc/gradnorm_ood) ⭐ 56 | 🐛 3 | 🌐 Python | 📅 2022-08-03 by Huang et al.
 
@@ -746,7 +746,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (NeurIPS 2021) [Can multi-label classification networks know what they don't know?](https://arxiv.org/pdf/2109.14162.pdf) [\[Code\]](https://github.com/deeplearning-wisc/multi-label-ood) ⭐ 46 | 🐛 3 | 🌐 Python | 📅 2021-09-22 by Wang et al.
 
-(ICLR 2021) [SSD: A Unified Framework for Self-Supervised Outlier Detection](https://arxiv.org/pdf/2103.12051.pdf) [\[Code\]](https://github.com/inspire-group/SSD) ⭐ 137 | 🐛 2 | 🌐 Python | 📅 2021-07-16 by Sehwag et al.
+(ICLR 2021) [SSD: A Unified Framework for Self-Supervised Outlier Detection](https://arxiv.org/pdf/2103.12051.pdf) [\[Code\]](https://github.com/inspire-group/SSD) ⭐ 138 | 🐛 2 | 🌐 Python | 📅 2021-07-16 by Sehwag et al.
 
 (ICLR 2021) [Multiscale Score Matching for Out-of-Distribution Detection](https://openreview.net/pdf?id=xoHdgbQJohv) [\[Code\]](https://github.com/ahsanMah/msma) ⭐ 12 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-01-19 by Mahmood et al.
 
@@ -1406,4 +1406,4 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
