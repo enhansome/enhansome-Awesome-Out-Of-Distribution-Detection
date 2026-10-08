@@ -92,7 +92,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 [(2022) Data Distribution Shifts and Monitoring](https://huyenchip.com/2022/02/07/data-distribution-shifts-and-monitoring.html) by Chip Huyen
 
-[(2023) OpenOOD v1.5 Methods & Benchmarks Overview](https://github.com/Jingkang50/OpenOOD/wiki/OpenOOD-v1.5-methods-%26-benchmarks-overview) ⭐ 1,080 | 🐛 30 | 🌐 Python | 📅 2025-12-01 by the OpenOOD team
+[(2023) OpenOOD v1.5 Methods & Benchmarks Overview](https://github.com/Jingkang50/OpenOOD/wiki/OpenOOD-v1.5-methods-%26-benchmarks-overview) ⭐ 1,081 | 🐛 30 | 🌐 Python | 📅 2025-12-01 by the OpenOOD team
 
 [(2020) Adapting on the Fly to Test-Time Distribution Shift](https://bair.berkeley.edu/blog/2020/11/05/arm/) by BAIR
 
@@ -126,7 +126,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 ## Benchmarks
 
-[OpenOOD](https://github.com/Jingkang50/OpenOOD) ⭐ 1,080 | 🐛 30 | 🌐 Python | 📅 2025-12-01: canonical benchmark suite for generalized OOD detection across classic image settings and methods
+[OpenOOD](https://github.com/Jingkang50/OpenOOD) ⭐ 1,081 | 🐛 30 | 🌐 Python | 📅 2025-12-01: canonical benchmark suite for generalized OOD detection across classic image settings and methods
 
 [OpenOOD-VLM](https://github.com/YBZh/OpenOOD-VLM) ⭐ 2 | 🐛 0 | 📅 2026-06-24: benchmark suite for generalized OOD detection in the vision-language model setting
 
@@ -154,7 +154,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 ## Libraries
 
-[OpenOOD](https://github.com/Jingkang50/OpenOOD) ⭐ 1,080 | 🐛 30 | 🌐 Python | 📅 2025-12-01: end-to-end OOD framework for training, benchmarking, and evaluating a large set of methods
+[OpenOOD](https://github.com/Jingkang50/OpenOOD) ⭐ 1,081 | 🐛 30 | 🌐 Python | 📅 2025-12-01: end-to-end OOD framework for training, benchmarking, and evaluating a large set of methods
 
 [PyTorch Out-of-Distribution Detection](https://github.com/kkirchheim/pytorch-ood) ⭐ 348 | 🐛 2 | 🌐 Python | 📅 2026-10-05: practical PyTorch library with detectors, losses, datasets, and evaluation utilities
 
@@ -454,7 +454,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (CVPR 2024) [YolOOD: Utilizing Object Detection Concepts for Multi-Label Out-of-Distribution Detection](https://openaccess.thecvf.com/content/CVPR2024/papers/Zolfi_YolOOD_Utilizing_Object_Detection_Concepts_for_Multi-Label_Out-of-Distribution_Detection_CVPR_2024_paper.pdf) [\[Code\]](https://github.com/AlonZolfi/YolOOD) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2025-04-05 by Zolfi et al.
 
-(CVPR 2024) [Learning Transferable Negative Prompts for Out-of-Distribution Detection](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Learning_Transferable_Negative_Prompts_for_Out-of-Distribution_Detection_CVPR_2024_paper.pdf) [\[Code\]](https://github.com/mala-lab/negprompt) ⭐ 62 | 🐛 7 | 🌐 Python | 📅 2024-04-08 by Li et al.
+(CVPR 2024) [Learning Transferable Negative Prompts for Out-of-Distribution Detection](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Learning_Transferable_Negative_Prompts_for_Out-of-Distribution_Detection_CVPR_2024_paper.pdf) [\[Code\]](https://github.com/mala-lab/negprompt) ⭐ 62 | 🐛 8 | 🌐 Python | 📅 2024-04-08 by Li et al.
 
 (CVPR 2024) [A Noisy Elephant in the Room: Is Your Out-of-Distribution Detector Robust to Label Noise?](https://openaccess.thecvf.com/content/CVPR2024/papers/Humblot-Renaux_A_Noisy_Elephant_in_the_Room_Is_Your_Out-of-Distribution_Detector_CVPR_2024_paper.pdf) [\[Code\]](https://github.com/glhr/ood-labelnoise) ⭐ 10 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-09-19 by Humblot-Renaux et al.
 
@@ -632,7 +632,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (CVPR 2022) [Unknown-Aware Object Detection: Learning What You Don't Know from Videos in the Wild](https://arxiv.org/pdf/2203.03800.pdf) [\[Code\]](https://github.com/deeplearning-wisc/stud) ⭐ 120 | 🐛 1 | 🌐 Python | 📅 2023-10-01 by Du et al.
 
-(NeurIPS 2022) ⭐⭐⭐⭐⭐ [OpenOOD: Benchmarking Generalized Out-of-Distribution Detection](https://arxiv.org/pdf/2210.07242.pdf) [\[Code\]](https://github.com/Jingkang50/OpenOOD) ⭐ 1,080 | 🐛 30 | 🌐 Python | 📅 2025-12-01 by Yang et al.
+(NeurIPS 2022) ⭐⭐⭐⭐⭐ [OpenOOD: Benchmarking Generalized Out-of-Distribution Detection](https://arxiv.org/pdf/2210.07242.pdf) [\[Code\]](https://github.com/Jingkang50/OpenOOD) ⭐ 1,081 | 🐛 30 | 🌐 Python | 📅 2025-12-01 by Yang et al.
 
 (NeurIPS 2022) [Boosting Out-of-distribution Detection with Typical Features](https://arxiv.org/pdf/2210.04200.pdf) by Zhu et al.
 
@@ -1406,4 +1406,4 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
