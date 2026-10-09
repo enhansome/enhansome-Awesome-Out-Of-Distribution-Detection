@@ -156,7 +156,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 [OpenOOD](https://github.com/Jingkang50/OpenOOD) ⭐ 1,081 | 🐛 30 | 🌐 Python | 📅 2025-12-01: end-to-end OOD framework for training, benchmarking, and evaluating a large set of methods
 
-[PyTorch Out-of-Distribution Detection](https://github.com/kkirchheim/pytorch-ood) ⭐ 348 | 🐛 2 | 🌐 Python | 📅 2026-10-05: practical PyTorch library with detectors, losses, datasets, and evaluation utilities
+[PyTorch Out-of-Distribution Detection](https://github.com/kkirchheim/pytorch-ood) ⭐ 349 | 🐛 2 | 🌐 Python | 📅 2026-10-05: practical PyTorch library with detectors, losses, datasets, and evaluation utilities
 
 [OODEEL](https://github.com/deel-ai/oodeel) ⭐ 61 | 🐛 20 | 🌐 Python | 📅 2026-05-19: compact post-hoc OOD toolkit for TensorFlow and PyTorch image classifiers
 
@@ -1356,7 +1356,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (CVPR 2024) [Label-Efficient Group Robustness via Out-of-Distribution Concept Curation](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Label-Efficient_Group_Robustness_via_Out-of-Distribution_Concept_Curation_CVPR_2024_paper.pdf) by Yang et al.
 
-(CVPR 2024) [Descriptor and Word Soups: Overcoming the Parameter Efficiency Accuracy Tradeoff for Out-of-Distribution Few-shot Learning](https://openaccess.thecvf.com/content/CVPR2024/papers/Liao_Descriptor_and_Word_Soups_Overcoming_the_Parameter_Efficiency_Accuracy_Tradeoff_CVPR_2024_paper.pdf) [\[Code\]](https://github.com/Chris210634/word_soups) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2024-04-15 by Liao et al.
+(CVPR 2024) [Descriptor and Word Soups: Overcoming the Parameter Efficiency Accuracy Tradeoff for Out-of-Distribution Few-shot Learning](https://openaccess.thecvf.com/content/CVPR2024/papers/Liao_Descriptor_and_Word_Soups_Overcoming_the_Parameter_Efficiency_Accuracy_Tradeoff_CVPR_2024_paper.pdf) [\[Code\]](https://github.com/Chris210634/word_soups) ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2024-04-15 by Liao et al.
 
 (CVPR 2024) [Segment Every Out-of-Distribution Object](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_Segment_Every_Out-of-Distribution_Object_CVPR_2024_paper.pdf) [\[Code\]](https://github.com/WenjieZhao1/S2M) ⭐ 27 | 🐛 5 | 🌐 Python | 📅 2025-01-09 by Zhao et al.
 
@@ -1402,8 +1402,8 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (ICLR 2021) [Removing Undesirable Feature Contributions Using Out-of-Distribution Data](https://openreview.net/pdf?id=eIHYL6fpbkA) by Lee et al.
 
-(ECCV 2020) [A Boundary Based Out-of-Distribution Classifier for Generalized Zero-Shot Learning](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690562.pdf) [\[Code\]](https://github.com/Chenxingyu1990/A-Boundary-Based-Out-of-Distribution-Classifier-for-Generalized-Zero-Shot-Learning) ⭐ 28 | 🐛 5 | 🌐 Python | 📅 2021-03-15 by Chen et al.
+(ECCV 2020) [A Boundary Based Out-of-Distribution Classifier for Generalized Zero-Shot Learning](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690562.pdf) [\[Code\]](https://github.com/Chenxingyu1990/A-Boundary-Based-Out-of-Distribution-Classifier-for-Generalized-Zero-Shot-Learning) ⭐ 27 | 🐛 5 | 🌐 Python | 📅 2021-03-15 by Chen et al.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
