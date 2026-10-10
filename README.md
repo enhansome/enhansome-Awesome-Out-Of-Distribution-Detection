@@ -156,7 +156,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 [OpenOOD](https://github.com/Jingkang50/OpenOOD) ⭐ 1,081 | 🐛 30 | 🌐 Python | 📅 2025-12-01: end-to-end OOD framework for training, benchmarking, and evaluating a large set of methods
 
-[PyTorch Out-of-Distribution Detection](https://github.com/kkirchheim/pytorch-ood) ⭐ 349 | 🐛 2 | 🌐 Python | 📅 2026-10-05: practical PyTorch library with detectors, losses, datasets, and evaluation utilities
+[PyTorch Out-of-Distribution Detection](https://github.com/kkirchheim/pytorch-ood) ⭐ 350 | 🐛 2 | 🌐 Python | 📅 2026-10-05: practical PyTorch library with detectors, losses, datasets, and evaluation utilities
 
 [OODEEL](https://github.com/deel-ai/oodeel) ⭐ 61 | 🐛 20 | 🌐 Python | 📅 2026-05-19: compact post-hoc OOD toolkit for TensorFlow and PyTorch image classifiers
 
@@ -650,7 +650,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (NeurIPS 2022) [Towards Out-of-Distribution Sequential Event Prediction: A Causal Treatment](https://proceedings.neurips.cc/paper_files/paper/2022/file/8e69a97cbdd91ac0808603fa589d6c17-Paper-Conference.pdf) by Yang et al.
 
-(NeurIPS 2022) [Delving into Out-of-Distribution Detection with Vision-Language Representations](https://arxiv.org/pdf/2211.13445.pdf) [\[Video\]](https://www.youtube.com/watch?v=ZZlxBgGalVA) [\[Code\]](https://github.com/deeplearning-wisc/MCM) ⭐ 100 | 🐛 3 | 🌐 Python | 📅 2024-03-12 by Ming et al.
+(NeurIPS 2022) [Delving into Out-of-Distribution Detection with Vision-Language Representations](https://arxiv.org/pdf/2211.13445.pdf) [\[Video\]](https://www.youtube.com/watch?v=ZZlxBgGalVA) [\[Code\]](https://github.com/deeplearning-wisc/MCM) ⭐ 101 | 🐛 3 | 🌐 Python | 📅 2024-03-12 by Ming et al.
 
 (NeurIPS 2022) [Beyond Mahalanobis Distance for Textual OOD Detection](https://proceedings.neurips.cc/paper_files/paper/2022/file/70fa5df8e3300dc30bf19bee44a56155-Paper-Conference.pdf) by Colombo et al.
 
@@ -1406,4 +1406,4 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
