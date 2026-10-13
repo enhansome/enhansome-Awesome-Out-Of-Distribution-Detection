@@ -219,8 +219,8 @@
                 "id": 527624781,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T13:34:12Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-13T13:28:02Z",
+                "open_issues": 5,
                 "owner": "kkirchheim",
                 "repo": "pytorch-ood",
                 "stars": 350,
@@ -278,10 +278,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-01T10:43:37Z",
-                "open_issues": 29,
+                "open_issues": 31,
                 "owner": "torch-uncertainty",
                 "repo": "torch-uncertainty",
-                "stars": 530,
+                "stars": 531,
                 "topics": [
                   "bayesian-network",
                   "computer-vision",
@@ -342,7 +342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T23:37:28.546Z",
+    "last_updated": "2026-10-13T21:50:59.516Z",
     "original_repository_info": {
       "archived": false,
       "description": "Out-of-distribution detection, robustness, and generalization resources. The repository contains a curated list of papers, tutorials, books, videos, articles and open-source libraries etc",

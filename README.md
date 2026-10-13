@@ -156,11 +156,11 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 [OpenOOD](https://github.com/Jingkang50/OpenOOD) ⭐ 1,083 | 🐛 30 | 🌐 Python | 📅 2025-12-01: end-to-end OOD framework for training, benchmarking, and evaluating a large set of methods
 
-[PyTorch Out-of-Distribution Detection](https://github.com/kkirchheim/pytorch-ood) ⭐ 350 | 🐛 2 | 🌐 Python | 📅 2026-10-05: practical PyTorch library with detectors, losses, datasets, and evaluation utilities
+[PyTorch Out-of-Distribution Detection](https://github.com/kkirchheim/pytorch-ood) ⭐ 350 | 🐛 5 | 🌐 Python | 📅 2026-10-13: practical PyTorch library with detectors, losses, datasets, and evaluation utilities
 
 [OODEEL](https://github.com/deel-ai/oodeel) ⭐ 61 | 🐛 20 | 🌐 Python | 📅 2026-05-19: compact post-hoc OOD toolkit for TensorFlow and PyTorch image classifiers
 
-[TorchUncertainty](https://github.com/ENSTA-U2IS-AI/torch-uncertainty) ⭐ 530 | 🐛 29 | 🌐 Python | 📅 2026-09-01: broader uncertainty framework with strong support for OOD metrics, evaluation, and tutorials
+[TorchUncertainty](https://github.com/ENSTA-U2IS-AI/torch-uncertainty) ⭐ 531 | 🐛 31 | 🌐 Python | 📅 2026-09-01: broader uncertainty framework with strong support for OOD metrics, evaluation, and tutorials
 
 [Alibi Detect](https://github.com/SeldonIO/alibi-detect) ⭐ 2,547 | 🐛 149 | 🌐 Jupyter Notebook | 📅 2025-12-11: high-quality toolkit for outlier, adversarial, and drift detection across modalities
 
@@ -306,7 +306,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (CVPR 2025) [DPU: Dynamic Prototype Updating for Multimodal Out-of-Distribution Detection](https://openaccess.thecvf.com/content/CVPR2025/html/Li_DPU_Dynamic_Prototype_Updating_for_Multimodal_Out-of-Distribution_Detection_CVPR_2025_paper.html) by Li et al.
 
-(CVPR 2025) [ProHOC: Probabilistic Hierarchical Out-of-Distribution Classification via Multi-Depth Networks](https://openaccess.thecvf.com/content/CVPR2025/html/Wallin_ProHOC_Probabilistic_Hierarchical_Out-of-Distribution_Classification_via_Multi-Depth_Networks_CVPR_2025_paper.html) [\[Code\]](https://github.com/walline/prohoc) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2025-05-07 by Wallin et al.
+(CVPR 2025) [ProHOC: Probabilistic Hierarchical Out-of-Distribution Classification via Multi-Depth Networks](https://openaccess.thecvf.com/content/CVPR2025/html/Wallin_ProHOC_Probabilistic_Hierarchical_Out-of-Distribution_Classification_via_Multi-Depth_Networks_CVPR_2025_paper.html) [\[Code\]](https://github.com/walline/prohoc) ⭐ 9 | 🐛 2 | 🌐 Python | 📅 2025-05-07 by Wallin et al.
 
 (CVPR 2025) [OpenMIBOOD: Open Medical Imaging Benchmarks for Out-Of-Distribution Detection](https://openaccess.thecvf.com/content/CVPR2025/html/Gutbrod_OpenMIBOOD_Open_Medical_Imaging_Benchmarks_for_Out-Of-Distribution_Detection_CVPR_2025_paper.html) [\[Code\]](https://github.com/remic-othr/OpenMIBOOD) ⭐ 51 | 🐛 1 | 🌐 Python | 📅 2026-06-30 by Gutbrod et al.
 
@@ -526,7 +526,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (UAI 2023)  [In- or Out-of-Distribution Detection via Dual Divergence Estimation](https://proceedings.mlr.press/v216/garg23b/garg23b.pdf) by Garg et al.
 
-(ICCV 2023) [Nearest Neighbor Guidance for Out-of-Distribution Detection](https://openaccess.thecvf.com/content/ICCV2023/papers/Park_Nearest_Neighbor_Guidance_for_Out-of-Distribution_Detection_ICCV_2023_paper.pdf) [\[Code\]](https://github.com/roomo7time/nnguide) ⭐ 24 | 🐛 0 | 🌐 Python | 📅 2025-06-02 by Park et al.
+(ICCV 2023) [Nearest Neighbor Guidance for Out-of-Distribution Detection](https://openaccess.thecvf.com/content/ICCV2023/papers/Park_Nearest_Neighbor_Guidance_for_Out-of-Distribution_Detection_ICCV_2023_paper.pdf) [\[Code\]](https://github.com/roomo7time/nnguide) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2025-06-02 by Park et al.
 
 (ICCV 2023) [DIFFGUARD: Semantic Mismatch-Guided Out-of-Distribution Detection using Pre-trained Diffusion Models](https://openaccess.thecvf.com/content/ICCV2023/papers/Gao_DIFFGUARD_Semantic_Mismatch-Guided_Out-of-Distribution_Detection_Using_Pre-Trained_Diffusion_Models_ICCV_2023_paper.pdf) [\[Code\]](https://github.com/cure-lab/DiffGuard) ⭐ 18 | 🐛 1 | 🌐 Python | 📅 2024-01-08 by Gao et al.
 
@@ -798,7 +798,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (ICLR 2018) [Do Deep Generative Models Know What They Don't Know?](https://arxiv.org/pdf/1810.09136.pdf) [\[Slides\]](https://fernandoperezc.github.io/Advanced-Topics-in-Machine-Learning-and-Data-Science/Jia.pdf) by Nalisnick et al.
 
-(ICLR 2018) ⭐⭐⭐⭐⭐ [(OE) Deep Anomaly Detection with Outlier Exposure](https://arxiv.org/pdf/1812.04606.pdf) [\[Code\]](https://github.com/hendrycks/outlier-exposure) ⭐ 572 | 🐛 5 | 🌐 Python | 📅 2021-10-09 by Hendrycks et al.
+(ICLR 2018) ⭐⭐⭐⭐⭐ [(OE) Deep Anomaly Detection with Outlier Exposure](https://arxiv.org/pdf/1812.04606.pdf) [\[Code\]](https://github.com/hendrycks/outlier-exposure) ⭐ 573 | 🐛 5 | 🌐 Python | 📅 2021-10-09 by Hendrycks et al.
 
 (ICLR 2018) ⭐⭐⭐⭐⭐ [(ODIN) Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks](https://arxiv.org/pdf/1706.02690.pdf) [\[Code\]](https://github.com/facebookresearch/odin) ⚠️ Archived by Liang et al.
 
@@ -1406,4 +1406,4 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
