@@ -91,7 +91,7 @@
                 "open_issues": 1,
                 "owner": "divelab",
                 "repo": "GOOD",
-                "stars": 211,
+                "stars": 212,
                 "topics": [
                   "deep-learning",
                   "distribution-shift",
@@ -220,7 +220,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-13T13:28:02Z",
-                "open_issues": 5,
+                "open_issues": 8,
                 "owner": "kkirchheim",
                 "repo": "pytorch-ood",
                 "stars": 350,
@@ -253,7 +253,7 @@
                 "open_issues": 20,
                 "owner": "deel-ai",
                 "repo": "oodeel",
-                "stars": 61,
+                "stars": 62,
                 "topics": [
                   "deep-neural-networks",
                   "out-of-distribution-detection",
@@ -278,10 +278,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-01T10:43:37Z",
-                "open_issues": 31,
+                "open_issues": 32,
                 "owner": "torch-uncertainty",
                 "repo": "torch-uncertainty",
-                "stars": 531,
+                "stars": 532,
                 "topics": [
                   "bayesian-network",
                   "computer-vision",
@@ -310,10 +310,10 @@
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
                 "last_commit": "2025-12-11T16:35:15Z",
-                "open_issues": 149,
+                "open_issues": 150,
                 "owner": "SeldonIO",
                 "repo": "alibi-detect",
-                "stars": 2547,
+                "stars": 2548,
                 "topics": [
                   "adversarial",
                   "anomaly",
@@ -342,7 +342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T21:50:59.516Z",
+    "last_updated": "2026-10-14T20:42:09.523Z",
     "original_repository_info": {
       "archived": false,
       "description": "Out-of-distribution detection, robustness, and generalization resources. The repository contains a curated list of papers, tutorials, books, videos, articles and open-source libraries etc",
@@ -354,7 +354,7 @@
       "open_issues": 0,
       "owner": "huytransformer",
       "repo": "Awesome-Out-Of-Distribution-Detection",
-      "stars": 1028,
+      "stars": 1029,
       "topics": [
         "anomaly",
         "anomaly-detection",
