@@ -87,7 +87,7 @@
                 "id": 500164429,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2025-02-21T23:23:52Z",
+                "last_commit": "2026-10-15T03:54:04Z",
                 "open_issues": 1,
                 "owner": "divelab",
                 "repo": "GOOD",
@@ -219,8 +219,8 @@
                 "id": 527624781,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T13:28:02Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-15T15:32:17Z",
+                "open_issues": 5,
                 "owner": "kkirchheim",
                 "repo": "pytorch-ood",
                 "stars": 350,
@@ -342,7 +342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T20:42:09.523Z",
+    "last_updated": "2026-10-15T20:21:04.255Z",
     "original_repository_info": {
       "archived": false,
       "description": "Out-of-distribution detection, robustness, and generalization resources. The repository contains a curated list of papers, tutorials, books, videos, articles and open-source libraries etc",
