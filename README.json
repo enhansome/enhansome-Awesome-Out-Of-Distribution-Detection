@@ -18,7 +18,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-12-01T10:40:18Z",
-                "open_issues": 30,
+                "open_issues": 29,
                 "owner": "Jingkang50",
                 "repo": "OpenOOD",
                 "stars": 1083,
@@ -70,7 +70,7 @@
                 "open_issues": 7,
                 "owner": "facebookresearch",
                 "repo": "DomainBed",
-                "stars": 1632,
+                "stars": 1631,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:14.707Z"
@@ -192,7 +192,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-12-01T10:40:18Z",
-                "open_issues": 30,
+                "open_issues": 29,
                 "owner": "Jingkang50",
                 "repo": "OpenOOD",
                 "stars": 1083,
@@ -313,7 +313,7 @@
                 "open_issues": 150,
                 "owner": "SeldonIO",
                 "repo": "alibi-detect",
-                "stars": 2548,
+                "stars": 2550,
                 "topics": [
                   "adversarial",
                   "anomaly",
@@ -342,7 +342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T20:21:04.255Z",
+    "last_updated": "2026-10-16T19:57:41.012Z",
     "original_repository_info": {
       "archived": false,
       "description": "Out-of-distribution detection, robustness, and generalization resources. The repository contains a curated list of papers, tutorials, books, videos, articles and open-source libraries etc",
@@ -354,7 +354,7 @@
       "open_issues": 0,
       "owner": "huytransformer",
       "repo": "Awesome-Out-Of-Distribution-Detection",
-      "stars": 1029,
+      "stars": 1030,
       "topics": [
         "anomaly",
         "anomaly-detection",
