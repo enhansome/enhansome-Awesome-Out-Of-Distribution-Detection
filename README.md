@@ -692,7 +692,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (ICLR 2022) [How to Exploit Hyperspherical Embeddings for Out-of-Distribution Detection?](https://arxiv.org/pdf/2203.04450.pdf) [\[Code\]](https://github.com/deeplearning-wisc/cider) ⭐ 66 | 🐛 7 | 🌐 Python | 📅 2023-08-13 by Ming et al.
 
-(ICLR 2022) [VOS: Learning What You Don't Know by Virtual Outlier Synthesis](https://arxiv.org/pdf/2202.01197.pdf) [\[Code\]](https://github.com/deeplearning-wisc/vos) ⭐ 325 | 🐛 4 | 🌐 Python | 📅 2023-10-01 by Du et al.
+(ICLR 2022) [VOS: Learning What You Don't Know by Virtual Outlier Synthesis](https://arxiv.org/pdf/2202.01197.pdf) [\[Code\]](https://github.com/deeplearning-wisc/vos) ⭐ 324 | 🐛 4 | 🌐 Python | 📅 2023-10-01 by Du et al.
 
 (UAI 2022) [Variational- and Metric-based Deep Latent Space for Out-Of-Distribution Detection](https://openreview.net/pdf?id=ScLeuUUi9gq) [\[Code\]](https://github.com/BGU-CS-VIL/vmdls) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2022-07-24 by Dinari and Freifeld
 
@@ -1382,7 +1382,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (ICRA 2023) [Unsupervised Road Anomaly Detection with Language Anchors](https://ieeexplore.ieee.org/document/10160470) by Tian et al.
 
-(NeurIPS 2022) [GenerSpeech: Towards Style Transfer for Generalizable Out-Of-Domain Text-to-Speech](https://arxiv.org/pdf/2205.07211.pdf) [\[Code\]](https://github.com/Rongjiehuang/GenerSpeech) ⭐ 333 | 🐛 20 | 🌐 Python | 📅 2024-02-09 by Huang et al.
+(NeurIPS 2022) [GenerSpeech: Towards Style Transfer for Generalizable Out-Of-Domain Text-to-Speech](https://arxiv.org/pdf/2205.07211.pdf) [\[Code\]](https://github.com/Rongjiehuang/GenerSpeech) ⭐ 332 | 🐛 20 | 🌐 Python | 📅 2024-02-09 by Huang et al.
 
 (NeurIPS 2022) [Learning Substructure Invariance for Out-of-Distribution Molecular Representations](https://openreview.net/pdf?id=2nWUNTnFijm) [\[Code\]](https://github.com/yangnianzu0515/MoleOOD) ⭐ 61 | 🐛 0 | 🌐 Python | 📅 2023-02-16 by Yang et al.
 
@@ -1406,4 +1406,4 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
