@@ -368,7 +368,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (AAAI 2024) [Exploiting Discrepancy in Feature Statistic for Out-of-Distribution Detection](https://aaai.org/wp-content/uploads/2024/02/AAAI-24-Saturday-Poster-Sessions-1.pdf) by Guan et al.
 
-(NeurIPS 2024) [Learning Structured Representations with Hyperbolic Embeddings](https://proceedings.neurips.cc/paper_files/paper/2024/hash/a5d2da376bab7624b3caeb9f78fcaa2f-Abstract-Conference.html) [\[Code\]](https://github.com/uiuctml/HypStructure) ⭐ 24 | 🐛 0 | 🌐 Python | 📅 2025-01-22 by Sinha et al.
+(NeurIPS 2024) [Learning Structured Representations with Hyperbolic Embeddings](https://proceedings.neurips.cc/paper_files/paper/2024/hash/a5d2da376bab7624b3caeb9f78fcaa2f-Abstract-Conference.html) [\[Code\]](https://github.com/uiuctml/HypStructure) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2025-01-22 by Sinha et al.
 
 (NeurIPS 2024) [What If the Input is Expanded in OOD Detection?](https://proceedings.neurips.cc/paper_files/paper/2024/file/25cc3adf8c85f7c70989cb8a97a691a7-Paper-Conference.pdf) [\[Code\]](https://github.com/tmlr-group/CoVer) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2024-10-28 by Zhang et al.
 
@@ -1406,4 +1406,4 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
