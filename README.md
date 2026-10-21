@@ -162,7 +162,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 [TorchUncertainty](https://github.com/ENSTA-U2IS-AI/torch-uncertainty) ⭐ 532 | 🐛 32 | 🌐 Python | 📅 2026-09-01: broader uncertainty framework with strong support for OOD metrics, evaluation, and tutorials
 
-[Alibi Detect](https://github.com/SeldonIO/alibi-detect) ⭐ 2,550 | 🐛 150 | 🌐 Jupyter Notebook | 📅 2025-12-11: high-quality toolkit for outlier, adversarial, and drift detection across modalities
+[Alibi Detect](https://github.com/SeldonIO/alibi-detect) ⭐ 2,550 | 🐛 151 | 🌐 Jupyter Notebook | 📅 2025-12-11: high-quality toolkit for outlier, adversarial, and drift detection across modalities
 
 # Surveys
 
@@ -778,7 +778,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (NeurIPS 2020) ⭐⭐⭐⭐⭐ [Why Normalizing Flows Fail to Detect Out-of-Distribution Data](https://proceedings.neurips.cc/paper/2020/file/ecb9fe2fbb99c31f567e9823e884dbec-Paper.pdf) [\[Code\]](https://github.com/PolinaKirichenko/flows_ood) ⭐ 87 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2021-11-02 by Kirichenko et al.
 
-(ICLR 2020) [Towards Neural Networks That Provably Know When They Don't Know](https://openreview.net/pdf?id=ByxGkySKwH) [\[Code\]](https://github.com/AlexMeinke/certified-certain-uncertainty) ⭐ 38 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2021-04-16 by Meinke et al.
+(ICLR 2020) [Towards Neural Networks That Provably Know When They Don't Know](https://openreview.net/pdf?id=ByxGkySKwH) [\[Code\]](https://github.com/AlexMeinke/certified-certain-uncertainty) ⭐ 39 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2021-04-16 by Meinke et al.
 
 (ICML 2020) [Detecting Out-of-Distribution Examples with Gram Matrices](http://proceedings.mlr.press/v119/sastry20a/sastry20a.pdf) [\[Code\]](https://github.com/VectorInstitute/gram-ood-detection) ⭐ 47 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2020-12-20 by Sastry and Oore
 
@@ -1406,4 +1406,4 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
