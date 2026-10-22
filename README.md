@@ -518,7 +518,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (NeurIPS 2023) [Category-Extensible Out-of-distribution Detection via Hierarchical Context Descriptions](https://proceedings.neurips.cc/paper_files/paper/2023/file/695b6f9490d27d852e439e35c56e73e3-Paper-Conference.pdf) by Liu et al.
 
-(NeurIPS 2023) [Out-of-distribution Detection Learning With Unreliable Out-of-distribution Sources](https://proceedings.neurips.cc/paper_files/paper/2023/file/e43f900f571de6c96a70d5724a0fb565-Paper-Conference.pdf) [\[Code\]](https://github.com/tmlr-group/ATOL) ⭐ 7 | 🐛 1 | 🌐 Python | 📅 2023-12-07 by Zheng and Wang et al.
+(NeurIPS 2023) [Out-of-distribution Detection Learning With Unreliable Out-of-distribution Sources](https://proceedings.neurips.cc/paper_files/paper/2023/file/e43f900f571de6c96a70d5724a0fb565-Paper-Conference.pdf) [\[Code\]](https://github.com/tmlr-group/ATOL) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2023-12-07 by Zheng and Wang et al.
 
 (NeurIPS 2023) [Dream the Impossible: Outlier Imagination with Diffusion Models](https://arxiv.org/pdf/2309.13415.pdf) by Du et al.
 
@@ -660,7 +660,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (ICML 2022) [Mitigating Neural Network Overconfidence with Logit Normalization](https://arxiv.org/pdf/2205.09310.pdf) [\[Code\]](https://github.com/hongxin001/logitnorm_ood) ⭐ 154 | 🐛 5 | 🌐 Python | 📅 2022-07-05 by Hsu et al.
 
-(ICML 2022) [Scaling Out-of-Distribution Detection for Real-World Settings](https://arxiv.org/pdf/1911.11132.pdf) [\[Code\]](https://github.com/hendrycks/anomaly-seg) ⭐ 158 | 🐛 1 | 🌐 Python | 📅 2023-02-02 by Hendrycks et al.
+(ICML 2022) [Scaling Out-of-Distribution Detection for Real-World Settings](https://arxiv.org/pdf/1911.11132.pdf) [\[Code\]](https://github.com/hendrycks/anomaly-seg) ⭐ 159 | 🐛 1 | 🌐 Python | 📅 2023-02-02 by Hendrycks et al.
 
 (ICML 2022) [Open-Sampling: Exploring Out-of-Distribution data for Re-balancing Long-tailed datasets](https://proceedings.mlr.press/v162/wei22c/wei22c.pdf) by Wei et al.
 
@@ -692,7 +692,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (ICLR 2022) [How to Exploit Hyperspherical Embeddings for Out-of-Distribution Detection?](https://arxiv.org/pdf/2203.04450.pdf) [\[Code\]](https://github.com/deeplearning-wisc/cider) ⭐ 66 | 🐛 7 | 🌐 Python | 📅 2023-08-13 by Ming et al.
 
-(ICLR 2022) [VOS: Learning What You Don't Know by Virtual Outlier Synthesis](https://arxiv.org/pdf/2202.01197.pdf) [\[Code\]](https://github.com/deeplearning-wisc/vos) ⭐ 324 | 🐛 4 | 🌐 Python | 📅 2023-10-01 by Du et al.
+(ICLR 2022) [VOS: Learning What You Don't Know by Virtual Outlier Synthesis](https://arxiv.org/pdf/2202.01197.pdf) [\[Code\]](https://github.com/deeplearning-wisc/vos) ⭐ 325 | 🐛 4 | 🌐 Python | 📅 2023-10-01 by Du et al.
 
 (UAI 2022) [Variational- and Metric-based Deep Latent Space for Out-Of-Distribution Detection](https://openreview.net/pdf?id=ScLeuUUi9gq) [\[Code\]](https://github.com/BGU-CS-VIL/vmdls) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2022-07-24 by Dinari and Freifeld
 
@@ -1406,4 +1406,4 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
