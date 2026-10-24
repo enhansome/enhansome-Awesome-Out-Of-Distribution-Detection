@@ -91,7 +91,7 @@
                 "open_issues": 1,
                 "owner": "divelab",
                 "repo": "GOOD",
-                "stars": 212,
+                "stars": 211,
                 "topics": [
                   "deep-learning",
                   "distribution-shift",
@@ -342,7 +342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T20:27:20.537Z",
+    "last_updated": "2026-10-24T19:29:34.929Z",
     "original_repository_info": {
       "archived": false,
       "description": "Out-of-distribution detection, robustness, and generalization resources. The repository contains a curated list of papers, tutorials, books, videos, articles and open-source libraries etc",
@@ -354,7 +354,7 @@
       "open_issues": 0,
       "owner": "huytransformer",
       "repo": "Awesome-Out-Of-Distribution-Detection",
-      "stars": 1030,
+      "stars": 1029,
       "topics": [
         "anomaly",
         "anomaly-detection",

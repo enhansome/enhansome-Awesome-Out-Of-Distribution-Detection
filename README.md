@@ -134,7 +134,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 [DomainBed](https://github.com/facebookresearch/DomainBed) ⚠️ Archived: standard evaluation suite for domain generalization and out-of-domain robustness
 
-[GOOD](https://github.com/divelab/GOOD) ⭐ 212 | 🐛 1 | 🌐 Python | 📅 2026-10-15: leading benchmark suite for graph out-of-distribution and graph domain generalization
+[GOOD](https://github.com/divelab/GOOD) ⭐ 211 | 🐛 1 | 🌐 Python | 📅 2026-10-15: leading benchmark suite for graph out-of-distribution and graph domain generalization
 
 [DrugOOD](https://drugood.github.io/): benchmark and platform for out-of-distribution generalization in AI-aided drug discovery
 
@@ -410,7 +410,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (NeurIPS 2024) [Hyper-opinion Evidential Deep Learning for Out-of-Distribution Detection](https://neurips.cc/virtual/2024/poster/95022) by Qu et al.
 
-(NeurIPS 2024) [MultiOOD: Scaling Out-of-Distribution Detection for Multiple Modalities](https://arxiv.org/pdf/2405.17419) [Code](https://github.com/donghao51/MultiOOD) ⭐ 70 | 🐛 0 | 🌐 Python | 📅 2025-12-03 by Dong et al.
+(NeurIPS 2024) [MultiOOD: Scaling Out-of-Distribution Detection for Multiple Modalities](https://arxiv.org/pdf/2405.17419) [Code](https://github.com/donghao51/MultiOOD) ⭐ 69 | 🐛 0 | 🌐 Python | 📅 2025-12-03 by Dong et al.
 
 (ECCV 2024) [GalLoP: Learning Global and Local Prompts for Vision-Language Models](https://arxiv.org/pdf/2407.01400) by Lafon et al.
 
@@ -644,7 +644,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (NeurIPS 2022) [Out-of-Distribution Detection with An Adaptive Likelihood Ratio on Informative Hierarchical VAE](https://proceedings.neurips.cc/paper_files/paper/2022/file/3066f60a91d652f4dc690637ac3a2f8c-Paper-Conference.pdf) by Li et al.
 
-(NeurIPS 2022) [GOOD: A Graph Out-of-Distribution Benchmark](https://proceedings.neurips.cc/paper_files/paper/2022/file/0dc91de822b71c66a7f54fa121d8cbb9-Paper-Datasets_and_Benchmarks.pdf) [\[Code\]](https://github.com/divelab/GOOD) ⭐ 212 | 🐛 1 | 🌐 Python | 📅 2026-10-15 by Gui et al.
+(NeurIPS 2022) [GOOD: A Graph Out-of-Distribution Benchmark](https://proceedings.neurips.cc/paper_files/paper/2022/file/0dc91de822b71c66a7f54fa121d8cbb9-Paper-Datasets_and_Benchmarks.pdf) [\[Code\]](https://github.com/divelab/GOOD) ⭐ 211 | 🐛 1 | 🌐 Python | 📅 2026-10-15 by Gui et al.
 
 (NeurIPS 2022) ⭐⭐⭐⭐⭐ [Is Out-of-Distribution Detection Learnable?](https://proceedings.neurips.cc/paper_files/paper/2022/file/f0e91b1314fa5eabf1d7ef6d1561ecec-Paper-Conference.pdf) by Fang et al.
 
@@ -768,7 +768,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (NeurIPS 2020) [CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances](https://arxiv.org/pdf/2007.08176.pdf) [\[Code\]](https://github.com/alinlab/CSI) ⭐ 284 | 🐛 12 | 🌐 Python | 📅 2023-10-19 by Tack et al.
 
-(NeurIPS 2020) ⭐⭐⭐⭐⭐ [Energy-based Out-of-distribution Detection](https://arxiv.org/pdf/2010.03759.pdf) [\[Code\]](https://github.com/wetliu/energy_ood) ⭐ 441 | 🐛 1 | 🌐 Python | 📅 2021-08-28 by Liu et al.
+(NeurIPS 2020) ⭐⭐⭐⭐⭐ [Energy-based Out-of-distribution Detection](https://arxiv.org/pdf/2010.03759.pdf) [\[Code\]](https://github.com/wetliu/energy_ood) ⭐ 440 | 🐛 1 | 🌐 Python | 📅 2021-08-28 by Liu et al.
 
 (NeurIPS 2020) [OOD-MAML: Meta-Learning for Few-Shot Out-of-Distribution Detection and Classification](https://proceedings.neurips.cc/paper/2020/file/28e209b61a52482a0ae1cb9f5959c792-Paper.pdf) [\[Video\]](https://slideslive.com/38935997/oodmaml-metalearning-for-fewshot-outofdistribution-detection-and-classification) by Jeong and Kim
 
@@ -1256,7 +1256,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (ICLR 2022) [Out-of-distribution Generalization in the Presence of Nuisance-Induced Spurious Correlations](https://openreview.net/pdf?id=12RoR2o32T) [\[Code\]](https://github.com/rajesh-lab/nurd-code-public) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2023-03-07 by Puli et al.
 
-(ICLR 2022) [Uncertainty Modeling for Out-of-Distribution Generalization](https://openreview.net/pdf?id=6HN7LHyzGgC) [\[Code\]](https://github.com/lixiaotong97/DSU) ⭐ 166 | 🐛 4 | 🌐 Python | 📅 2022-03-27 by Li et al.
+(ICLR 2022) [Uncertainty Modeling for Out-of-Distribution Generalization](https://openreview.net/pdf?id=6HN7LHyzGgC) [\[Code\]](https://github.com/lixiaotong97/DSU) ⭐ 165 | 🐛 4 | 🌐 Python | 📅 2022-03-27 by Li et al.
 
 (ICLR 2022) [Invariant Causal Representation Learning for Out-of-Distribution Generalization](https://openreview.net/pdf?id=-e4EXDWXnSn) by Lu et al.
 
@@ -1348,7 +1348,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (NeurIPS 2024) [Scanning Trojaned Models Using Out-of-Distribution Samples](https://neurips.cc/virtual/2024/poster/93781) by Mirzaei et al.
 
-(ICML 2024) [Context-Guided Diffusion for Out-of-Distribution Molecular and Protein Design](https://openreview.net/pdf/b7a45cf1733be5651f5bddabeece506fb72a174c.pdf) [\[Code\]](https://github.com/leojklarner/context-guided-diffusion) ⭐ 41 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-02-21 by Klarner et al.
+(ICML 2024) [Context-Guided Diffusion for Out-of-Distribution Molecular and Protein Design](https://openreview.net/pdf/b7a45cf1733be5651f5bddabeece506fb72a174c.pdf) [\[Code\]](https://github.com/leojklarner/context-guided-diffusion) ⭐ 42 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-02-21 by Klarner et al.
 
 (ICML 2024) [A Generative Approach for Treatment Effect Estimation under Collider Bias: From an Out-of-Distribution Perspective](https://openreview.net/pdf?id=kUj9b2CezT) [\[Code\]](https://github.com/ZJUBaohongLi/C2GAM) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2024-10-30 by Li et al.
 
@@ -1406,4 +1406,4 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
