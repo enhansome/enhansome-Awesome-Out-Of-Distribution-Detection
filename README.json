@@ -223,7 +223,7 @@
                 "open_issues": 5,
                 "owner": "kkirchheim",
                 "repo": "pytorch-ood",
-                "stars": 350,
+                "stars": 351,
                 "topics": [
                   "anomaly-detection",
                   "confidence-estimation",
@@ -342,7 +342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T19:38:09.056Z",
+    "last_updated": "2026-10-26T21:38:28.281Z",
     "original_repository_info": {
       "archived": false,
       "description": "Out-of-distribution detection, robustness, and generalization resources. The repository contains a curated list of papers, tutorials, books, videos, articles and open-source libraries etc",
@@ -354,7 +354,7 @@
       "open_issues": 0,
       "owner": "huytransformer",
       "repo": "Awesome-Out-Of-Distribution-Detection",
-      "stars": 1029,
+      "stars": 1030,
       "topics": [
         "anomaly",
         "anomaly-detection",
