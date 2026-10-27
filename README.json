@@ -313,7 +313,7 @@
                 "open_issues": 151,
                 "owner": "SeldonIO",
                 "repo": "alibi-detect",
-                "stars": 2550,
+                "stars": 2552,
                 "topics": [
                   "adversarial",
                   "anomaly",
@@ -342,7 +342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T21:38:28.281Z",
+    "last_updated": "2026-10-27T21:20:16.179Z",
     "original_repository_info": {
       "archived": false,
       "description": "Out-of-distribution detection, robustness, and generalization resources. The repository contains a curated list of papers, tutorials, books, videos, articles and open-source libraries etc",

@@ -162,7 +162,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 [TorchUncertainty](https://github.com/ENSTA-U2IS-AI/torch-uncertainty) ⭐ 532 | 🐛 32 | 🌐 Python | 📅 2026-09-01: broader uncertainty framework with strong support for OOD metrics, evaluation, and tutorials
 
-[Alibi Detect](https://github.com/SeldonIO/alibi-detect) ⭐ 2,550 | 🐛 151 | 🌐 Jupyter Notebook | 📅 2025-12-11: high-quality toolkit for outlier, adversarial, and drift detection across modalities
+[Alibi Detect](https://github.com/SeldonIO/alibi-detect) ⭐ 2,552 | 🐛 151 | 🌐 Jupyter Notebook | 📅 2025-12-11: high-quality toolkit for outlier, adversarial, and drift detection across modalities
 
 # Surveys
 
@@ -544,7 +544,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (ICCV 2023) [WDiscOOD: Out-of-Distribution Detection via Whitened Linear Discriminant Analysis](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_WDiscOOD_Out-of-Distribution_Detection_via_Whitened_Linear_Discriminant_Analysis_ICCV_2023_paper.pdf) [\[Code\]](https://github.com/ivalab/WDiscOOD) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2023-08-30 by Chen et al.
 
-(ICCV 2023) [Anomaly Detection under Distribution Shift](https://openaccess.thecvf.com/content/ICCV2023/papers/Cao_Anomaly_Detection_Under_Distribution_Shift_ICCV_2023_paper.pdf) [\[Code\]](https://github.com/mala-lab/ADShift) ⭐ 42 | 🐛 6 | 🌐 Python | 📅 2023-10-25 by Cao et al.
+(ICCV 2023) [Anomaly Detection under Distribution Shift](https://openaccess.thecvf.com/content/ICCV2023/papers/Cao_Anomaly_Detection_Under_Distribution_Shift_ICCV_2023_paper.pdf) [\[Code\]](https://github.com/mala-lab/ADShift) ⭐ 43 | 🐛 6 | 🌐 Python | 📅 2023-10-25 by Cao et al.
 
 (ICCV 2023) [Out-of-Distribution Detection for Monocular Depth Estimation](https://openaccess.thecvf.com/content/ICCV2023/papers/Hornauer_Out-of-Distribution_Detection_for_Monocular_Depth_Estimation_ICCV_2023_paper.pdf) [\[Code\]](https://github.com/jhornauer/mde_ood) ⭐ 10 | 🐛 2 | 🌐 Python | 📅 2024-03-20 by Hornauer et al.
 
@@ -582,7 +582,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (ICLR 2023) [Turning the Curse of Heterogeneity in Federated Learning into a Blessing for Out-of-Distribution Detection](https://openreview.net/pdf?id=mMNimwRb7Gr) by Yu et al.
 
-(ICLR 2023) [Non-Parametric Outlier Synthesis](https://arxiv.org/pdf/2303.02966.pdf) [\[Code\]](https://github.com/deeplearning-wisc/npos) ⭐ 52 | 🐛 1 | 🌐 Python | 📅 2023-10-01 by Tao et al.
+(ICLR 2023) [Non-Parametric Outlier Synthesis](https://arxiv.org/pdf/2303.02966.pdf) [\[Code\]](https://github.com/deeplearning-wisc/npos) ⭐ 53 | 🐛 1 | 🌐 Python | 📅 2023-10-01 by Tao et al.
 
 (ICLR 2023) [Out-of-distribution Detection with Implicit Outlier Transformation](https://arxiv.org/pdf/2303.05033.pdf) by Wang et al.
 
@@ -988,7 +988,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (NeurIPS 2025) [Pruning Spurious Subgraphs for Graph Out-of-Distribution Generalization](https://neurips.cc/virtual/2025/poster/116247) [\[Code\]](https://github.com/tianyao-aka/PrunE-GraphOOD) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-11-10 by Yao et al.
 
-(NeurIPS 2025) [STRAP: Spatio-Temporal Pattern Retrieval for Out-of-Distribution Generalization](https://neurips.cc/virtual/2025/poster/117450) [\[Code\]](https://github.com/HoweyZ/STRAP) ⭐ 85 | 🐛 0 | 🌐 Python | 📅 2026-09-09 by Zhang et al.
+(NeurIPS 2025) [STRAP: Spatio-Temporal Pattern Retrieval for Out-of-Distribution Generalization](https://neurips.cc/virtual/2025/poster/117450) [\[Code\]](https://github.com/HoweyZ/STRAP) ⭐ 85 | 🐛 1 | 🌐 Python | 📅 2026-09-09 by Zhang et al.
 
 (ICCV 2025) [Customizing Domain Adapters for Domain Generalization](https://openaccess.thecvf.com/content/ICCV2025/html/Ji_Customizing_Domain_Adapters_for_Domain_Generalization_ICCV_2025_paper.html) by Ji et al.
 
@@ -1406,4 +1406,4 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
