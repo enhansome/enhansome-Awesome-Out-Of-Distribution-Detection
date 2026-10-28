@@ -156,13 +156,13 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 [OpenOOD](https://github.com/Jingkang50/OpenOOD) ⭐ 1,085 | 🐛 29 | 🌐 Python | 📅 2025-12-01: end-to-end OOD framework for training, benchmarking, and evaluating a large set of methods
 
-[PyTorch Out-of-Distribution Detection](https://github.com/kkirchheim/pytorch-ood) ⭐ 351 | 🐛 5 | 🌐 Python | 📅 2026-10-15: practical PyTorch library with detectors, losses, datasets, and evaluation utilities
+[PyTorch Out-of-Distribution Detection](https://github.com/kkirchheim/pytorch-ood) ⭐ 352 | 🐛 5 | 🌐 Python | 📅 2026-10-28: practical PyTorch library with detectors, losses, datasets, and evaluation utilities
 
 [OODEEL](https://github.com/deel-ai/oodeel) ⭐ 62 | 🐛 20 | 🌐 Python | 📅 2026-05-19: compact post-hoc OOD toolkit for TensorFlow and PyTorch image classifiers
 
 [TorchUncertainty](https://github.com/ENSTA-U2IS-AI/torch-uncertainty) ⭐ 532 | 🐛 32 | 🌐 Python | 📅 2026-09-01: broader uncertainty framework with strong support for OOD metrics, evaluation, and tutorials
 
-[Alibi Detect](https://github.com/SeldonIO/alibi-detect) ⭐ 2,552 | 🐛 151 | 🌐 Jupyter Notebook | 📅 2025-12-11: high-quality toolkit for outlier, adversarial, and drift detection across modalities
+[Alibi Detect](https://github.com/SeldonIO/alibi-detect) ⭐ 2,553 | 🐛 151 | 🌐 Jupyter Notebook | 📅 2025-12-11: high-quality toolkit for outlier, adversarial, and drift detection across modalities
 
 # Surveys
 
@@ -410,7 +410,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (NeurIPS 2024) [Hyper-opinion Evidential Deep Learning for Out-of-Distribution Detection](https://neurips.cc/virtual/2024/poster/95022) by Qu et al.
 
-(NeurIPS 2024) [MultiOOD: Scaling Out-of-Distribution Detection for Multiple Modalities](https://arxiv.org/pdf/2405.17419) [Code](https://github.com/donghao51/MultiOOD) ⭐ 69 | 🐛 0 | 🌐 Python | 📅 2025-12-03 by Dong et al.
+(NeurIPS 2024) [MultiOOD: Scaling Out-of-Distribution Detection for Multiple Modalities](https://arxiv.org/pdf/2405.17419) [Code](https://github.com/donghao51/MultiOOD) ⭐ 70 | 🐛 0 | 🌐 Python | 📅 2025-12-03 by Dong et al.
 
 (ECCV 2024) [GalLoP: Learning Global and Local Prompts for Vision-Language Models](https://arxiv.org/pdf/2407.01400) by Lafon et al.
 
@@ -674,7 +674,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (ICML 2022) [POEM: Out-of-Distribution Detection with Posterior Sampling](https://proceedings.mlr.press/v162/ming22a/ming22a.pdf) [\[Code\]](https://github.com/deeplearning-wisc/poem) ⭐ 28 | 🐛 1 | 🌐 Python | 📅 2023-05-06 by Ming et al.
 
-(ICML 2022) [(kNN) Out-of-Distribution Detection with Deep Nearest Neighbors](https://arxiv.org/pdf/2204.06507.pdf) [\[Code\]](https://github.com/deeplearning-wisc/knn-ood) ⭐ 206 | 🐛 2 | 🌐 Python | 📅 2024-07-12 by Sun et al.
+(ICML 2022) [(kNN) Out-of-Distribution Detection with Deep Nearest Neighbors](https://arxiv.org/pdf/2204.06507.pdf) [\[Code\]](https://github.com/deeplearning-wisc/knn-ood) ⭐ 207 | 🐛 2 | 🌐 Python | 📅 2024-07-12 by Sun et al.
 
 (ICML 2022) [Training OOD Detectors in their Natural Habitats](https://proceedings.mlr.press/v162/katz-samuels22a/katz-samuels22a.pdf) by Katz-Samuels et al.
 
@@ -692,7 +692,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (ICLR 2022) [How to Exploit Hyperspherical Embeddings for Out-of-Distribution Detection?](https://arxiv.org/pdf/2203.04450.pdf) [\[Code\]](https://github.com/deeplearning-wisc/cider) ⭐ 66 | 🐛 7 | 🌐 Python | 📅 2023-08-13 by Ming et al.
 
-(ICLR 2022) [VOS: Learning What You Don't Know by Virtual Outlier Synthesis](https://arxiv.org/pdf/2202.01197.pdf) [\[Code\]](https://github.com/deeplearning-wisc/vos) ⭐ 325 | 🐛 4 | 🌐 Python | 📅 2023-10-01 by Du et al.
+(ICLR 2022) [VOS: Learning What You Don't Know by Virtual Outlier Synthesis](https://arxiv.org/pdf/2202.01197.pdf) [\[Code\]](https://github.com/deeplearning-wisc/vos) ⭐ 324 | 🐛 4 | 🌐 Python | 📅 2023-10-01 by Du et al.
 
 (UAI 2022) [Variational- and Metric-based Deep Latent Space for Out-Of-Distribution Detection](https://openreview.net/pdf?id=ScLeuUUi9gq) [\[Code\]](https://github.com/BGU-CS-VIL/vmdls) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2022-07-24 by Dinari and Freifeld
 
@@ -1406,4 +1406,4 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._

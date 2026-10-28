@@ -219,11 +219,11 @@
                 "id": 527624781,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T15:32:17Z",
+                "last_commit": "2026-10-28T17:40:22Z",
                 "open_issues": 5,
                 "owner": "kkirchheim",
                 "repo": "pytorch-ood",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "anomaly-detection",
                   "confidence-estimation",
@@ -313,7 +313,7 @@
                 "open_issues": 151,
                 "owner": "SeldonIO",
                 "repo": "alibi-detect",
-                "stars": 2552,
+                "stars": 2553,
                 "topics": [
                   "adversarial",
                   "anomaly",
@@ -342,7 +342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T21:20:16.179Z",
+    "last_updated": "2026-10-28T21:39:25.004Z",
     "original_repository_info": {
       "archived": false,
       "description": "Out-of-distribution detection, robustness, and generalization resources. The repository contains a curated list of papers, tutorials, books, videos, articles and open-source libraries etc",
