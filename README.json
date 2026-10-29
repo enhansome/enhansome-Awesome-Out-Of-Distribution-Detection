@@ -21,7 +21,7 @@
                 "open_issues": 29,
                 "owner": "Jingkang50",
                 "repo": "OpenOOD",
-                "stars": 1085,
+                "stars": 1086,
                 "topics": [
                   "anomaly-detection",
                   "novelty-detection",
@@ -195,7 +195,7 @@
                 "open_issues": 29,
                 "owner": "Jingkang50",
                 "repo": "OpenOOD",
-                "stars": 1085,
+                "stars": 1086,
                 "topics": [
                   "anomaly-detection",
                   "novelty-detection",
@@ -342,7 +342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T21:39:25.004Z",
+    "last_updated": "2026-10-29T21:48:38.574Z",
     "original_repository_info": {
       "archived": false,
       "description": "Out-of-distribution detection, robustness, and generalization resources. The repository contains a curated list of papers, tutorials, books, videos, articles and open-source libraries etc",
