@@ -156,13 +156,13 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 [OpenOOD](https://github.com/Jingkang50/OpenOOD) ⭐ 1,086 | 🐛 29 | 🌐 Python | 📅 2025-12-01: end-to-end OOD framework for training, benchmarking, and evaluating a large set of methods
 
-[PyTorch Out-of-Distribution Detection](https://github.com/kkirchheim/pytorch-ood) ⭐ 352 | 🐛 5 | 🌐 Python | 📅 2026-10-28: practical PyTorch library with detectors, losses, datasets, and evaluation utilities
+[PyTorch Out-of-Distribution Detection](https://github.com/kkirchheim/pytorch-ood) ⭐ 353 | 🐛 5 | 🌐 Python | 📅 2026-10-28: practical PyTorch library with detectors, losses, datasets, and evaluation utilities
 
 [OODEEL](https://github.com/deel-ai/oodeel) ⭐ 62 | 🐛 20 | 🌐 Python | 📅 2026-05-19: compact post-hoc OOD toolkit for TensorFlow and PyTorch image classifiers
 
-[TorchUncertainty](https://github.com/ENSTA-U2IS-AI/torch-uncertainty) ⭐ 532 | 🐛 32 | 🌐 Python | 📅 2026-09-01: broader uncertainty framework with strong support for OOD metrics, evaluation, and tutorials
+[TorchUncertainty](https://github.com/ENSTA-U2IS-AI/torch-uncertainty) ⭐ 531 | 🐛 32 | 🌐 Python | 📅 2026-09-01: broader uncertainty framework with strong support for OOD metrics, evaluation, and tutorials
 
-[Alibi Detect](https://github.com/SeldonIO/alibi-detect) ⭐ 2,553 | 🐛 151 | 🌐 Jupyter Notebook | 📅 2025-12-11: high-quality toolkit for outlier, adversarial, and drift detection across modalities
+[Alibi Detect](https://github.com/SeldonIO/alibi-detect) ⭐ 2,554 | 🐛 151 | 🌐 Jupyter Notebook | 📅 2025-12-11: high-quality toolkit for outlier, adversarial, and drift detection across modalities
 
 # Surveys
 
@@ -296,7 +296,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (ICLR 2025) [GOLD: Graph Out-of-Distribution Detection via Implicit Adversarial Latent Generation](https://openreview.net/forum?id=y5einmJ0Yx) by Wang et al.
 
-(CVPR 2025) [Leveraging Perturbation Robustness to Enhance Out-of-Distribution Detection](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Leveraging_Perturbation_Robustness_to_Enhance_Out-of-Distribution_Detection_CVPR_2025_paper.html) [\[Code\]](https://github.com/wenxichen2746/Perturbation-Rectified-OOD-Detection) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2025-04-02 by Chen et al.
+(CVPR 2025) [Leveraging Perturbation Robustness to Enhance Out-of-Distribution Detection](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Leveraging_Perturbation_Robustness_to_Enhance_Out-of-Distribution_Detection_CVPR_2025_paper.html) [\[Code\]](https://github.com/wenxichen2746/Perturbation-Rectified-OOD-Detection) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-04-02 by Chen et al.
 
 (CVPR 2025) [Detecting Out-of-Distribution Through the Lens of Neural Collapse](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Detecting_Out-of-Distribution_Through_the_Lens_of_Neural_Collapse_CVPR_2025_paper.html) [\[Code\]](https://github.com/litianliu/NCI-OOD) ⭐ 9 | 🐛 1 | 🌐 Python | 📅 2025-03-18 by Liu et al.
 
@@ -410,7 +410,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (NeurIPS 2024) [Hyper-opinion Evidential Deep Learning for Out-of-Distribution Detection](https://neurips.cc/virtual/2024/poster/95022) by Qu et al.
 
-(NeurIPS 2024) [MultiOOD: Scaling Out-of-Distribution Detection for Multiple Modalities](https://arxiv.org/pdf/2405.17419) [Code](https://github.com/donghao51/MultiOOD) ⭐ 70 | 🐛 0 | 🌐 Python | 📅 2025-12-03 by Dong et al.
+(NeurIPS 2024) [MultiOOD: Scaling Out-of-Distribution Detection for Multiple Modalities](https://arxiv.org/pdf/2405.17419) [Code](https://github.com/donghao51/MultiOOD) ⭐ 71 | 🐛 0 | 🌐 Python | 📅 2025-12-03 by Dong et al.
 
 (ECCV 2024) [GalLoP: Learning Global and Local Prompts for Vision-Language Models](https://arxiv.org/pdf/2407.01400) by Lafon et al.
 
@@ -1406,4 +1406,4 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
