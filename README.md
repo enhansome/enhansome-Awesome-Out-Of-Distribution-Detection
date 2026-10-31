@@ -988,7 +988,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (NeurIPS 2025) [Pruning Spurious Subgraphs for Graph Out-of-Distribution Generalization](https://neurips.cc/virtual/2025/poster/116247) [\[Code\]](https://github.com/tianyao-aka/PrunE-GraphOOD) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-11-10 by Yao et al.
 
-(NeurIPS 2025) [STRAP: Spatio-Temporal Pattern Retrieval for Out-of-Distribution Generalization](https://neurips.cc/virtual/2025/poster/117450) [\[Code\]](https://github.com/HoweyZ/STRAP) ⭐ 85 | 🐛 1 | 🌐 Python | 📅 2026-09-09 by Zhang et al.
+(NeurIPS 2025) [STRAP: Spatio-Temporal Pattern Retrieval for Out-of-Distribution Generalization](https://neurips.cc/virtual/2025/poster/117450) [\[Code\]](https://github.com/HoweyZ/STRAP) ⭐ 86 | 🐛 1 | 🌐 Python | 📅 2026-09-09 by Zhang et al.
 
 (ICCV 2025) [Customizing Domain Adapters for Domain Generalization](https://openaccess.thecvf.com/content/ICCV2025/html/Ji_Customizing_Domain_Adapters_for_Domain_Generalization_ICCV_2025_paper.html) by Ji et al.
 
@@ -1406,4 +1406,4 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
