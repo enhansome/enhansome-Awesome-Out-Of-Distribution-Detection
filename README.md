@@ -156,7 +156,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 [OpenOOD](https://github.com/Jingkang50/OpenOOD) ⭐ 1,086 | 🐛 29 | 🌐 Python | 📅 2025-12-01: end-to-end OOD framework for training, benchmarking, and evaluating a large set of methods
 
-[PyTorch Out-of-Distribution Detection](https://github.com/kkirchheim/pytorch-ood) ⭐ 353 | 🐛 3 | 🌐 Python | 📅 2026-11-03: practical PyTorch library with detectors, losses, datasets, and evaluation utilities
+[PyTorch Out-of-Distribution Detection](https://github.com/kkirchheim/pytorch-ood) ⭐ 354 | 🐛 3 | 🌐 Python | 📅 2026-11-04: practical PyTorch library with detectors, losses, datasets, and evaluation utilities
 
 [OODEEL](https://github.com/deel-ai/oodeel) ⭐ 62 | 🐛 20 | 🌐 Python | 📅 2026-05-19: compact post-hoc OOD toolkit for TensorFlow and PyTorch image classifiers
 
@@ -1208,7 +1208,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (NeurIPS 2023) [Secure Out-of-distribution Task Generalization with Energy-based Models](https://proceedings.neurips.cc/paper_files/paper/2023/file/d39e3ae9a11b79691709a7a6e06a63d9-Paper-Conference.pdf) by Chen et al.
 
-(NeurIPS 2023) [Understanding and Improving Feature Learning for Out-of-distribution Generalization](https://proceedings.neurips.cc/paper_files/paper/2023/file/d73d5645ddbb9ada6c862116435574f6-Paper-Conference.pdf) [\[Code\]](https://github.com/LFhase/FeAT) ⭐ 29 | 🐛 2 | 🌐 Python | 📅 2025-05-27 by Chen, Huang, and Zhou et al.
+(NeurIPS 2023) [Understanding and Improving Feature Learning for Out-of-distribution Generalization](https://proceedings.neurips.cc/paper_files/paper/2023/file/d73d5645ddbb9ada6c862116435574f6-Paper-Conference.pdf) [\[Code\]](https://github.com/LFhase/FeAT) ⭐ 30 | 🐛 2 | 🌐 Python | 📅 2025-05-27 by Chen, Huang, and Zhou et al.
 
 (ICLR 2023) [Improving Out-of-distribution Generalization with Indirection Representations](https://openreview.net/pdf?id=0f-0I6RFAch) by Pham et al.
 
@@ -1242,7 +1242,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (NeurIPS 2022) [Assaying Out-Of-Distribution Generalization in Transfer Learning](https://proceedings.neurips.cc/paper_files/paper/2022/file/2f5acc925919209370a3af4eac5cad4a-Paper-Conference.pdf) [\[Code\]](https://github.com/amazon-science/assaying-ood) ⚠️ Archived by Wenzel et al.
 
-(NeurIPS 2022) [Learning Causally Invariant Representations for Out-of-Distribution Generalization on Graphs](https://proceedings.neurips.cc/paper_files/paper/2022/file/8b21a7ea42cbcd1c29a7a88c444cce45-Paper-Conference.pdf) [\[Code\]](https://github.com/LFhase/CIGA) ⭐ 123 | 🐛 1 | 🌐 Python | 📅 2023-08-28 by Chen et al.
+(NeurIPS 2022) [Learning Causally Invariant Representations for Out-of-Distribution Generalization on Graphs](https://proceedings.neurips.cc/paper_files/paper/2022/file/8b21a7ea42cbcd1c29a7a88c444cce45-Paper-Conference.pdf) [\[Code\]](https://github.com/LFhase/CIGA) ⭐ 122 | 🐛 1 | 🌐 Python | 📅 2023-08-28 by Chen et al.
 
 (NeurIPS 2022) [Diverse Weight Averaging for Out-of-Distribution Generalization](https://proceedings.neurips.cc/paper_files/paper/2022/file/46108d807b50ad4144eb353b5d0e8851-Paper-Conference.pdf) [\[Code\]](https://github.com/alexrame/diwa) ⭐ 31 | 🐛 0 | 🌐 Python | 📅 2023-01-31 by Ramé et al.
 
@@ -1406,4 +1406,4 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
