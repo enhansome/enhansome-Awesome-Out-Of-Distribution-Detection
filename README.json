@@ -278,7 +278,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-01T10:43:37Z",
-                "open_issues": 32,
+                "open_issues": 33,
                 "owner": "torch-uncertainty",
                 "repo": "torch-uncertainty",
                 "stars": 532,
@@ -342,7 +342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T22:38:00.383Z",
+    "last_updated": "2026-11-05T22:40:58.445Z",
     "original_repository_info": {
       "archived": false,
       "description": "Out-of-distribution detection, robustness, and generalization resources. The repository contains a curated list of papers, tutorials, books, videos, articles and open-source libraries etc",
