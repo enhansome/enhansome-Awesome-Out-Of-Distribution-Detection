@@ -156,7 +156,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 [OpenOOD](https://github.com/Jingkang50/OpenOOD) ⭐ 1,087 | 🐛 29 | 🌐 Python | 📅 2025-12-01: end-to-end OOD framework for training, benchmarking, and evaluating a large set of methods
 
-[PyTorch Out-of-Distribution Detection](https://github.com/kkirchheim/pytorch-ood) ⭐ 354 | 🐛 2 | 🌐 Python | 📅 2026-11-08: practical PyTorch library with detectors, losses, datasets, and evaluation utilities
+[PyTorch Out-of-Distribution Detection](https://github.com/kkirchheim/pytorch-ood) ⭐ 354 | 🐛 2 | 🌐 Python | 📅 2026-11-10: practical PyTorch library with detectors, losses, datasets, and evaluation utilities
 
 [OODEEL](https://github.com/deel-ai/oodeel) ⭐ 62 | 🐛 20 | 🌐 Python | 📅 2026-05-19: compact post-hoc OOD toolkit for TensorFlow and PyTorch image classifiers
 
@@ -572,7 +572,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (ICLR 2023) ⭐⭐⭐⭐⭐ [A framework for benchmarking Class-out-of-distribution detection and its application to ImageNet](https://openreview.net/pdf?id=Iuubb9W6Jtk) [\[Code\]](https://github.com/mdabbah/COOD_benchmarking) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2024-05-27 by Galil et al.
 
-(ICLR 2023) [Energy-based Out-of-Distribution Detection for Graph Neural Networks](https://openreview.net/pdf?id=zoz7Ze4STUL) [\[Code\]](https://github.com/qitianwu/GraphOOD-GNNSafe) ⭐ 86 | 🐛 0 | 🌐 Python | 📅 2026-11-06 by Wu et al.
+(ICLR 2023) [Energy-based Out-of-Distribution Detection for Graph Neural Networks](https://openreview.net/pdf?id=zoz7Ze4STUL) [\[Code\]](https://github.com/qitianwu/GraphOOD-GNNSafe) ⭐ 87 | 🐛 0 | 🌐 Python | 📅 2026-11-06 by Wu et al.
 
 (ICLR 2023) [The Tilted Variational Autoencoder: Improving Out-of-Distribution Detection](https://openreview.net/pdf?id=YlGsTZODyjz) [\[Code\]](https://github.com/anonconfsubaccount/tilted_prior) by Floto et al.
 
