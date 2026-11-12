@@ -156,7 +156,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 [OpenOOD](https://github.com/Jingkang50/OpenOOD) ⭐ 1,087 | 🐛 29 | 🌐 Python | 📅 2025-12-01: end-to-end OOD framework for training, benchmarking, and evaluating a large set of methods
 
-[PyTorch Out-of-Distribution Detection](https://github.com/kkirchheim/pytorch-ood) ⭐ 354 | 🐛 7 | 🌐 Python | 📅 2026-11-11: practical PyTorch library with detectors, losses, datasets, and evaluation utilities
+[PyTorch Out-of-Distribution Detection](https://github.com/kkirchheim/pytorch-ood) ⭐ 354 | 🐛 7 | 🌐 Python | 📅 2026-11-12: practical PyTorch library with detectors, losses, datasets, and evaluation utilities
 
 [OODEEL](https://github.com/deel-ai/oodeel) ⭐ 62 | 🐛 20 | 🌐 Python | 📅 2026-05-19: compact post-hoc OOD toolkit for TensorFlow and PyTorch image classifiers
 
@@ -690,7 +690,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (ICLR 2022) [Igeood: An Information Geometry Approach to Out-of-Distribution Detection](https://arxiv.org/pdf/2203.07798.pdf) [\[Code\]](https://github.com/igeood/Igeood) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2022-01-25 by Gomes et al.
 
-(ICLR 2022) [How to Exploit Hyperspherical Embeddings for Out-of-Distribution Detection?](https://arxiv.org/pdf/2203.04450.pdf) [\[Code\]](https://github.com/deeplearning-wisc/cider) ⭐ 67 | 🐛 7 | 🌐 Python | 📅 2023-08-13 by Ming et al.
+(ICLR 2022) [How to Exploit Hyperspherical Embeddings for Out-of-Distribution Detection?](https://arxiv.org/pdf/2203.04450.pdf) [\[Code\]](https://github.com/deeplearning-wisc/cider) ⭐ 68 | 🐛 7 | 🌐 Python | 📅 2023-08-13 by Ming et al.
 
 (ICLR 2022) [VOS: Learning What You Don't Know by Virtual Outlier Synthesis](https://arxiv.org/pdf/2202.01197.pdf) [\[Code\]](https://github.com/deeplearning-wisc/vos) ⭐ 324 | 🐛 4 | 🌐 Python | 📅 2023-10-01 by Du et al.
 
@@ -1406,4 +1406,4 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
