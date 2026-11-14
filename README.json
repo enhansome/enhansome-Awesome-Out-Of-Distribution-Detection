@@ -219,8 +219,8 @@
                 "id": 527624781,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T17:08:27Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-14T01:25:08Z",
+                "open_issues": 6,
                 "owner": "kkirchheim",
                 "repo": "pytorch-ood",
                 "stars": 354,
@@ -342,7 +342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T22:38:53.966Z",
+    "last_updated": "2026-11-14T21:30:49.362Z",
     "original_repository_info": {
       "archived": false,
       "description": "Out-of-distribution detection, robustness, and generalization resources. The repository contains a curated list of papers, tutorials, books, videos, articles and open-source libraries etc",
