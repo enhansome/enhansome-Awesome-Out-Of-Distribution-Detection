@@ -21,7 +21,7 @@
                 "open_issues": 31,
                 "owner": "Jingkang50",
                 "repo": "OpenOOD",
-                "stars": 1093,
+                "stars": 1091,
                 "topics": [
                   "anomaly-detection",
                   "novelty-detection",
@@ -195,7 +195,7 @@
                 "open_issues": 31,
                 "owner": "Jingkang50",
                 "repo": "OpenOOD",
-                "stars": 1093,
+                "stars": 1091,
                 "topics": [
                   "anomaly-detection",
                   "novelty-detection",
@@ -313,7 +313,7 @@
                 "open_issues": 153,
                 "owner": "SeldonIO",
                 "repo": "alibi-detect",
-                "stars": 2555,
+                "stars": 2553,
                 "topics": [
                   "adversarial",
                   "anomaly",
@@ -342,7 +342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T23:23:50.465Z",
+    "last_updated": "2026-11-19T23:35:10.932Z",
     "original_repository_info": {
       "archived": false,
       "description": "Out-of-distribution detection, robustness, and generalization resources. The repository contains a curated list of papers, tutorials, books, videos, articles and open-source libraries etc",
@@ -351,10 +351,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-04-03T18:05:25Z",
-      "open_issues": 1,
+      "open_issues": 0,
       "owner": "huytransformer",
       "repo": "Awesome-Out-Of-Distribution-Detection",
-      "stars": 1032,
+      "stars": 1031,
       "topics": [
         "anomaly",
         "anomaly-detection",
