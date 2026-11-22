@@ -21,7 +21,7 @@
                 "open_issues": 31,
                 "owner": "Jingkang50",
                 "repo": "OpenOOD",
-                "stars": 1091,
+                "stars": 1092,
                 "topics": [
                   "anomaly-detection",
                   "novelty-detection",
@@ -195,7 +195,7 @@
                 "open_issues": 31,
                 "owner": "Jingkang50",
                 "repo": "OpenOOD",
-                "stars": 1091,
+                "stars": 1092,
                 "topics": [
                   "anomaly-detection",
                   "novelty-detection",
@@ -281,7 +281,7 @@
                 "open_issues": 35,
                 "owner": "torch-uncertainty",
                 "repo": "torch-uncertainty",
-                "stars": 535,
+                "stars": 534,
                 "topics": [
                   "bayesian-network",
                   "computer-vision",
@@ -342,7 +342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T22:11:07.296Z",
+    "last_updated": "2026-11-22T22:28:04.179Z",
     "original_repository_info": {
       "archived": false,
       "description": "Out-of-distribution detection, robustness, and generalization resources. The repository contains a curated list of papers, tutorials, books, videos, articles and open-source libraries etc",
