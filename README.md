@@ -92,7 +92,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 [(2022) Data Distribution Shifts and Monitoring](https://huyenchip.com/2022/02/07/data-distribution-shifts-and-monitoring.html) by Chip Huyen
 
-[(2023) OpenOOD v1.5 Methods & Benchmarks Overview](https://github.com/Jingkang50/OpenOOD/wiki/OpenOOD-v1.5-methods-%26-benchmarks-overview) ⭐ 1,092 | 🐛 31 | 🌐 Python | 📅 2025-12-01 by the OpenOOD team
+[(2023) OpenOOD v1.5 Methods & Benchmarks Overview](https://github.com/Jingkang50/OpenOOD/wiki/OpenOOD-v1.5-methods-%26-benchmarks-overview) ⭐ 1,093 | 🐛 31 | 🌐 Python | 📅 2025-12-01 by the OpenOOD team
 
 [(2020) Adapting on the Fly to Test-Time Distribution Shift](https://bair.berkeley.edu/blog/2020/11/05/arm/) by BAIR
 
@@ -126,7 +126,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 ## Benchmarks
 
-[OpenOOD](https://github.com/Jingkang50/OpenOOD) ⭐ 1,092 | 🐛 31 | 🌐 Python | 📅 2025-12-01: canonical benchmark suite for generalized OOD detection across classic image settings and methods
+[OpenOOD](https://github.com/Jingkang50/OpenOOD) ⭐ 1,093 | 🐛 31 | 🌐 Python | 📅 2025-12-01: canonical benchmark suite for generalized OOD detection across classic image settings and methods
 
 [OpenOOD-VLM](https://github.com/YBZh/OpenOOD-VLM) ⭐ 2 | 🐛 0 | 📅 2026-06-24: benchmark suite for generalized OOD detection in the vision-language model setting
 
@@ -154,13 +154,13 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 ## Libraries
 
-[OpenOOD](https://github.com/Jingkang50/OpenOOD) ⭐ 1,092 | 🐛 31 | 🌐 Python | 📅 2025-12-01: end-to-end OOD framework for training, benchmarking, and evaluating a large set of methods
+[OpenOOD](https://github.com/Jingkang50/OpenOOD) ⭐ 1,093 | 🐛 31 | 🌐 Python | 📅 2025-12-01: end-to-end OOD framework for training, benchmarking, and evaluating a large set of methods
 
-[PyTorch Out-of-Distribution Detection](https://github.com/kkirchheim/pytorch-ood) ⭐ 354 | 🐛 10 | 🌐 Python | 📅 2026-11-21: practical PyTorch library with detectors, losses, datasets, and evaluation utilities
+[PyTorch Out-of-Distribution Detection](https://github.com/kkirchheim/pytorch-ood) ⭐ 354 | 🐛 10 | 🌐 Python | 📅 2026-11-23: practical PyTorch library with detectors, losses, datasets, and evaluation utilities
 
 [OODEEL](https://github.com/deel-ai/oodeel) ⭐ 62 | 🐛 22 | 🌐 Python | 📅 2026-05-19: compact post-hoc OOD toolkit for TensorFlow and PyTorch image classifiers
 
-[TorchUncertainty](https://github.com/ENSTA-U2IS-AI/torch-uncertainty) ⭐ 534 | 🐛 35 | 🌐 Python | 📅 2026-09-01: broader uncertainty framework with strong support for OOD metrics, evaluation, and tutorials
+[TorchUncertainty](https://github.com/ENSTA-U2IS-AI/torch-uncertainty) ⭐ 535 | 🐛 35 | 🌐 Python | 📅 2026-09-01: broader uncertainty framework with strong support for OOD metrics, evaluation, and tutorials
 
 [Alibi Detect](https://github.com/SeldonIO/alibi-detect) ⭐ 2,553 | 🐛 153 | 🌐 Jupyter Notebook | 📅 2025-12-11: high-quality toolkit for outlier, adversarial, and drift detection across modalities
 
@@ -632,7 +632,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (CVPR 2022) [Unknown-Aware Object Detection: Learning What You Don't Know from Videos in the Wild](https://arxiv.org/pdf/2203.03800.pdf) [\[Code\]](https://github.com/deeplearning-wisc/stud) ⭐ 120 | 🐛 1 | 🌐 Python | 📅 2023-10-01 by Du et al.
 
-(NeurIPS 2022) ⭐⭐⭐⭐⭐ [OpenOOD: Benchmarking Generalized Out-of-Distribution Detection](https://arxiv.org/pdf/2210.07242.pdf) [\[Code\]](https://github.com/Jingkang50/OpenOOD) ⭐ 1,092 | 🐛 31 | 🌐 Python | 📅 2025-12-01 by Yang et al.
+(NeurIPS 2022) ⭐⭐⭐⭐⭐ [OpenOOD: Benchmarking Generalized Out-of-Distribution Detection](https://arxiv.org/pdf/2210.07242.pdf) [\[Code\]](https://github.com/Jingkang50/OpenOOD) ⭐ 1,093 | 🐛 31 | 🌐 Python | 📅 2025-12-01 by Yang et al.
 
 (NeurIPS 2022) [Boosting Out-of-distribution Detection with Typical Features](https://arxiv.org/pdf/2210.04200.pdf) by Zhu et al.
 
@@ -740,7 +740,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (NeurIPS 2021) ⭐⭐⭐⭐⭐ [ReAct: Out-of-distribution Detection With Rectified Activations](https://arxiv.org/pdf/2111.12797.pdf) [\[Code\]](https://github.com/deeplearning-wisc/react) ⭐ 60 | 🐛 3 | 🌐 Python | 📅 2022-03-24 by Sun et al.
 
-(NeurIPS 2021) ⭐⭐⭐⭐⭐ [(GradNorm) On the Importance of Gradients for Detecting Distributional Shifts in the Wild](https://arxiv.org/pdf/2110.00218.pdf) [\[Code\]](https://github.com/deeplearning-wisc/gradnorm_ood) ⭐ 56 | 🐛 3 | 🌐 Python | 📅 2022-08-03 by Huang et al.
+(NeurIPS 2021) ⭐⭐⭐⭐⭐ [(GradNorm) On the Importance of Gradients for Detecting Distributional Shifts in the Wild](https://arxiv.org/pdf/2110.00218.pdf) [\[Code\]](https://github.com/deeplearning-wisc/gradnorm_ood) ⭐ 57 | 🐛 3 | 🌐 Python | 📅 2022-08-03 by Huang et al.
 
 (NeurIPS 2021) [Watermarking for Out-of-distribution Detection](https://arxiv.org/pdf/2210.15198.pdf) by Wang et al.
 
@@ -808,7 +808,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (ArXiv 2018) [Learning Confidence for Out-of-Distribution Detection in Neural Networks](https://arxiv.org/pdf/1802.04865.pdf) [\[Code\]](https://github.com/uoguelph-mlrg/confidence_estimation) ⭐ 273 | 🐛 1 | 🌐 Python | 📅 2018-05-05 by DeVries and Taylor
 
-(ICLR 2017) ⭐⭐⭐⭐⭐ [A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks](https://arxiv.org/pdf/1610.02136.pdf) [\[Code\]](https://github.com/hendrycks/error-detection) ⭐ 235 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2018-12-27 by Hendrycks and Gimpel
+(ICLR 2017) ⭐⭐⭐⭐⭐ [A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks](https://arxiv.org/pdf/1610.02136.pdf) [\[Code\]](https://github.com/hendrycks/error-detection) ⭐ 236 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2018-12-27 by Hendrycks and Gimpel
 
 ## OOD Robustness
 
@@ -1406,4 +1406,4 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
