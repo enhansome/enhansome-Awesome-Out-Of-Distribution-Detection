@@ -156,13 +156,13 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 [OpenOOD](https://github.com/Jingkang50/OpenOOD) ⭐ 1,093 | 🐛 31 | 🌐 Python | 📅 2025-12-01: end-to-end OOD framework for training, benchmarking, and evaluating a large set of methods
 
-[PyTorch Out-of-Distribution Detection](https://github.com/kkirchheim/pytorch-ood) ⭐ 354 | 🐛 10 | 🌐 Python | 📅 2026-11-23: practical PyTorch library with detectors, losses, datasets, and evaluation utilities
+[PyTorch Out-of-Distribution Detection](https://github.com/kkirchheim/pytorch-ood) ⭐ 354 | 🐛 11 | 🌐 Python | 📅 2026-11-23: practical PyTorch library with detectors, losses, datasets, and evaluation utilities
 
 [OODEEL](https://github.com/deel-ai/oodeel) ⭐ 62 | 🐛 22 | 🌐 Python | 📅 2026-05-19: compact post-hoc OOD toolkit for TensorFlow and PyTorch image classifiers
 
 [TorchUncertainty](https://github.com/ENSTA-U2IS-AI/torch-uncertainty) ⭐ 535 | 🐛 35 | 🌐 Python | 📅 2026-09-01: broader uncertainty framework with strong support for OOD metrics, evaluation, and tutorials
 
-[Alibi Detect](https://github.com/SeldonIO/alibi-detect) ⭐ 2,553 | 🐛 153 | 🌐 Jupyter Notebook | 📅 2025-12-11: high-quality toolkit for outlier, adversarial, and drift detection across modalities
+[Alibi Detect](https://github.com/SeldonIO/alibi-detect) ⭐ 2,552 | 🐛 153 | 🌐 Jupyter Notebook | 📅 2025-12-11: high-quality toolkit for outlier, adversarial, and drift detection across modalities
 
 # Surveys
 
@@ -232,7 +232,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (AAAI 2025) [Filter or Compensate: Towards Invariant Representation from Distribution Shift for Anomaly Detection](https://aaai.org/wp-content/uploads/2025/02/AAAI-25-Main-Track-Poster-Schedule.pdf) by Chen et al.
 
-(NeurIPS 2025) [ΔEnergy: Optimizing Energy Change During Vision-Language Alignment Improves both OOD Detection and OOD Generalization](https://neurips.cc/virtual/2025/poster/116579) [\[Code\]](https://github.com/LinLLLL/DeltaEnergy) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-05-25 by Zhu et al.
+(NeurIPS 2025) [ΔEnergy: Optimizing Energy Change During Vision-Language Alignment Improves both OOD Detection and OOD Generalization](https://neurips.cc/virtual/2025/poster/116579) [\[Code\]](https://github.com/LinLLLL/DeltaEnergy) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-05-25 by Zhu et al.
 
 (NeurIPS 2025) [An Information-theoretical Framework for Understanding Out-of-distribution Detection with Pretrained Vision-Language Models](https://neurips.cc/virtual/2025/poster/116939) by Peng et al.
 
@@ -1406,4 +1406,4 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
