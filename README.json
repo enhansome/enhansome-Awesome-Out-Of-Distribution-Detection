@@ -17,11 +17,11 @@
                 "id": 432902512,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2025-12-01T10:40:18Z",
-                "open_issues": 31,
+                "last_commit": "2026-11-26T13:39:37Z",
+                "open_issues": 30,
                 "owner": "Jingkang50",
                 "repo": "OpenOOD",
-                "stars": 1093,
+                "stars": 1094,
                 "topics": [
                   "anomaly-detection",
                   "novelty-detection",
@@ -191,11 +191,11 @@
                 "id": 432902512,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2025-12-01T10:40:18Z",
-                "open_issues": 31,
+                "last_commit": "2026-11-26T13:39:37Z",
+                "open_issues": 30,
                 "owner": "Jingkang50",
                 "repo": "OpenOOD",
-                "stars": 1093,
+                "stars": 1094,
                 "topics": [
                   "anomaly-detection",
                   "novelty-detection",
@@ -219,8 +219,8 @@
                 "id": 527624781,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-23T17:50:04Z",
-                "open_issues": 11,
+                "last_commit": "2026-11-27T00:03:00Z",
+                "open_issues": 9,
                 "owner": "kkirchheim",
                 "repo": "pytorch-ood",
                 "stars": 354,
@@ -313,7 +313,7 @@
                 "open_issues": 153,
                 "owner": "SeldonIO",
                 "repo": "alibi-detect",
-                "stars": 2553,
+                "stars": 2555,
                 "topics": [
                   "adversarial",
                   "anomaly",
@@ -342,7 +342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T00:59:29.106Z",
+    "last_updated": "2026-11-27T01:00:15.039Z",
     "original_repository_info": {
       "archived": false,
       "description": "Out-of-distribution detection, robustness, and generalization resources. The repository contains a curated list of papers, tutorials, books, videos, articles and open-source libraries etc",
