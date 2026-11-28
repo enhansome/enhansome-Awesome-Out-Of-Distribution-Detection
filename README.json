@@ -342,7 +342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T01:00:15.039Z",
+    "last_updated": "2026-11-28T00:32:16.790Z",
     "original_repository_info": {
       "archived": false,
       "description": "Out-of-distribution detection, robustness, and generalization resources. The repository contains a curated list of papers, tutorials, books, videos, articles and open-source libraries etc",
@@ -354,7 +354,7 @@
       "open_issues": 0,
       "owner": "huytransformer",
       "repo": "Awesome-Out-Of-Distribution-Detection",
-      "stars": 1031,
+      "stars": 1032,
       "topics": [
         "anomaly",
         "anomaly-detection",
